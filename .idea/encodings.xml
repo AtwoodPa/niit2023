@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/niit_01_基于SSM框架的校园出入安全管理系统的设计与实现/code/school/school-admin/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/niit_01_基于SSM框架的校园出入安全管理系统的设计与实现/code/school/school-admin/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/niit_01_基于SSM框架的校园出入安全管理系统的设计与实现/code/school/school-common/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/niit_01_基于SSM框架的校园出入安全管理系统的设计与实现/code/school/school-common/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/niit_01_基于SSM框架的校园出入安全管理系统的设计与实现/code/school/school-framework/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/niit_01_基于SSM框架的校园出入安全管理系统的设计与实现/code/school/school-framework/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/niit_01_基于SSM框架的校园出入安全管理系统的设计与实现/code/school/school-generator/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/niit_01_基于SSM框架的校园出入安全管理系统的设计与实现/code/school/school-generator/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/niit_01_基于SSM框架的校园出入安全管理系统的设计与实现/code/school/school-quartz/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/niit_01_基于SSM框架的校园出入安全管理系统的设计与实现/code/school/school-quartz/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/niit_01_基于SSM框架的校园出入安全管理系统的设计与实现/code/school/school-system/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/niit_01_基于SSM框架的校园出入安全管理系统的设计与实现/code/school/school-system/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/niit_01_基于SSM框架的校园出入安全管理系统的设计与实现/code/school/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/niit_01_基于SSM框架的校园出入安全管理系统的设计与实现/code/school/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/niit_02_基于Web的课程考评系统的开发与实现/code/exam/exam-admin/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/niit_02_基于Web的课程考评系统的开发与实现/code/exam/exam-admin/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/niit_02_基于Web的课程考评系统的开发与实现/code/exam/exam-common/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/niit_02_基于Web的课程考评系统的开发与实现/code/exam/exam-common/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/niit_02_基于Web的课程考评系统的开发与实现/code/exam/exam-framework/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/niit_02_基于Web的课程考评系统的开发与实现/code/exam/exam-framework/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/niit_02_基于Web的课程考评系统的开发与实现/code/exam/exam-generator/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/niit_02_基于Web的课程考评系统的开发与实现/code/exam/exam-generator/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/niit_02_基于Web的课程考评系统的开发与实现/code/exam/exam-quartz/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/niit_02_基于Web的课程考评系统的开发与实现/code/exam/exam-quartz/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/niit_02_基于Web的课程考评系统的开发与实现/code/exam/exam-system/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/niit_02_基于Web的课程考评系统的开发与实现/code/exam/exam-system/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/niit_02_基于Web的课程考评系统的开发与实现/code/exam/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/niit_02_基于Web的课程考评系统的开发与实现/code/exam/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/niit_03_基于Web的高校综合教务管理系统的设计与实现/code/edu-office/office-admin/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/niit_03_基于Web的高校综合教务管理系统的设计与实现/code/edu-office/office-admin/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/niit_03_基于Web的高校综合教务管理系统的设计与实现/code/edu-office/office-common/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/niit_03_基于Web的高校综合教务管理系统的设计与实现/code/edu-office/office-common/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/niit_03_基于Web的高校综合教务管理系统的设计与实现/code/edu-office/office-framework/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/niit_03_基于Web的高校综合教务管理系统的设计与实现/code/edu-office/office-framework/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/niit_03_基于Web的高校综合教务管理系统的设计与实现/code/edu-office/office-generator/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/niit_03_基于Web的高校综合教务管理系统的设计与实现/code/edu-office/office-generator/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/niit_03_基于Web的高校综合教务管理系统的设计与实现/code/edu-office/office-quartz/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/niit_03_基于Web的高校综合教务管理系统的设计与实现/code/edu-office/office-quartz/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/niit_03_基于Web的高校综合教务管理系统的设计与实现/code/edu-office/office-system/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/niit_03_基于Web的高校综合教务管理系统的设计与实现/code/edu-office/office-system/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/niit_03_基于Web的高校综合教务管理系统的设计与实现/code/edu-office/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/niit_03_基于Web的高校综合教务管理系统的设计与实现/code/edu-office/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ym/code/ym/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ym/code/ym/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ym/code/ym/ym-admin/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ym/code/ym/ym-admin/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ym/code/ym/ym-common/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ym/code/ym/ym-common/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ym/code/ym/ym-framework/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ym/code/ym/ym-framework/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ym/code/ym/ym-generator/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ym/code/ym/ym-generator/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ym/code/ym/ym-quartz/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ym/code/ym/ym-quartz/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ym/code/ym/ym-system/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ym/code/ym/ym-system/src/main/resources" charset="UTF-8" />
+  </component>
+</project>

@@ -5,12 +5,12 @@
 	<modelVersion>4.0.0</modelVersion>
 	
     <groupId>com.office</groupId>
-    <artifactId>eduOffice</artifactId>
+    <artifactId>office</artifactId>
     <version>3.8.6</version>
 
-    <name>eduOffice</name>
+    <name>office</name>
     <url>http://fastbuild.run</url>
-    <description>若依管理系统</description>
+    <description>教务管理系统</description>
     
     <properties>
         <eduOffice.version>3.8.6</eduOffice.version>
@@ -138,35 +138,35 @@
             <!-- 定时任务-->
             <dependency>
                 <groupId>com.office</groupId>
-                <artifactId>eduOffice-quartz</artifactId>
+                <artifactId>office-quartz</artifactId>
                 <version>${eduOffice.version}</version>
             </dependency>
 
             <!-- 代码生成-->
             <dependency>
                 <groupId>com.office</groupId>
-                <artifactId>eduOffice-generator</artifactId>
+                <artifactId>office-generator</artifactId>
                 <version>${eduOffice.version}</version>
             </dependency>
 
             <!-- 核心模块-->
             <dependency>
                 <groupId>com.office</groupId>
-                <artifactId>eduOffice-framework</artifactId>
+                <artifactId>office-framework</artifactId>
                 <version>${eduOffice.version}</version>
             </dependency>
 
             <!-- 系统模块-->
             <dependency>
                 <groupId>com.office</groupId>
-                <artifactId>eduOffice-system</artifactId>
+                <artifactId>office-system</artifactId>
                 <version>${eduOffice.version}</version>
             </dependency>
 
             <!-- 通用工具-->
             <dependency>
                 <groupId>com.office</groupId>
-                <artifactId>eduOffice-common</artifactId>
+                <artifactId>office-common</artifactId>
                 <version>${eduOffice.version}</version>
             </dependency>
 
@@ -174,12 +174,12 @@
     </dependencyManagement>
 
     <modules>
-        <module>eduOffice-admin</module>
-        <module>eduOffice-framework</module>
-        <module>eduOffice-system</module>
-        <module>eduOffice-quartz</module>
-        <module>eduOffice-generator</module>
-        <module>eduOffice-common</module>
+        <module>office-admin</module>
+        <module>office-framework</module>
+        <module>office-system</module>
+        <module>office-quartz</module>
+        <module>office-generator</module>
+        <module>office-common</module>
     </modules>
     <packaging>pom</packaging>
 

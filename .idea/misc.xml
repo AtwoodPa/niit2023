@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ExternalStorageConfigurationManager" enabled="true" />
+  <component name="FindBugsConfigurable">
+    <option name="make" value="true" />
+    <option name="effort" value="default" />
+    <option name="priority" value="Medium" />
+    <option name="excludeFilter" value="" />
+  </component>
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/ym/code/ym/pom.xml" />
+        <option value="$PROJECT_DIR$/niit_02_基于Web的课程考评系统的开发与实现/code/exam/pom.xml" />
+        <option value="$PROJECT_DIR$/niit_03_基于Web的高校综合教务管理系统的设计与实现/code/edu-office/pom.xml" />
+        <option value="$PROJECT_DIR$/niit_01_基于SSM框架的校园出入安全管理系统的设计与实现/code/school/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+  <component name="SuppressionsComponent">
+    <option name="suppComments" value="[]" />
+  </component>
+</project>

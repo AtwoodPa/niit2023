@@ -9,8 +9,7 @@
     <version>3.8.6</version>
 
     <name>ym</name>
-    <url>http://fastbuild.run</url>
-    <description>若依管理系统</description>
+    <description>疫苗预约管理系统</description>
     
     <properties>
         <ym.version>3.8.6</ym.version>
