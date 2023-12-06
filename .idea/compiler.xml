@@ -7,34 +7,36 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="ym-generator" />
-        <module name="exam-framework" />
         <module name="school-admin" />
-        <module name="office-quartz" />
         <module name="ym-system" />
         <module name="school-framework" />
-        <module name="office-framework" />
         <module name="school-system" />
-        <module name="office-common" />
-        <module name="exam-quartz" />
         <module name="school-generator" />
-        <module name="office-admin" />
         <module name="ym-framework" />
         <module name="school-quartz" />
         <module name="ym-admin" />
         <module name="ym-common" />
-        <module name="exam-common" />
         <module name="school-common" />
         <module name="ym-quartz" />
-        <module name="exam-admin" />
-        <module name="exam-system" />
-        <module name="office-system" />
-        <module name="office-generator" />
-        <module name="exam-generator" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="eduOffice" target="1.8" />
       <module name="eduOffice-quartz" target="1.8" />
+      <module name="exam" target="1.8" />
+      <module name="exam-admin" target="1.8" />
+      <module name="exam-common" target="1.8" />
+      <module name="exam-framework" target="1.8" />
+      <module name="exam-generator" target="1.8" />
+      <module name="exam-quartz" target="1.8" />
+      <module name="exam-system" target="1.8" />
+      <module name="office" target="1.8" />
+      <module name="office-admin" target="1.8" />
+      <module name="office-common" target="1.8" />
+      <module name="office-framework" target="1.8" />
+      <module name="office-generator" target="1.8" />
+      <module name="office-quartz" target="1.8" />
+      <module name="office-system" target="1.8" />
     </bytecodeTargetLevel>
   </component>
 </project>
