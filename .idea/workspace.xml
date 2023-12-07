@@ -4,17 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8b5fada3-3bcf-410f-a09f-a4576c729f85" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/1_2_3出题表.xlsx" beforeDir="false" afterPath="$PROJECT_DIR$/出题表.xlsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/niit_01_基于SSM框架的校园出入安全管理系统的设计与实现/3本科开题报告评定表.docx" beforeDir="false" afterPath="$PROJECT_DIR$/niit_01_基于SSM框架的校园出入安全管理系统的设计与实现/【3】本科开题报告评定表.docx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/niit_01_基于SSM框架的校园出入安全管理系统的设计与实现/4本科中期检查表.docx" beforeDir="false" afterPath="$PROJECT_DIR$/niit_01_基于SSM框架的校园出入安全管理系统的设计与实现/【4】本科中期检查表.docx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/niit_01_基于SSM框架的校园出入安全管理系统的设计与实现/5本科指导教师审阅表.doc" beforeDir="false" afterPath="$PROJECT_DIR$/niit_01_基于SSM框架的校园出入安全管理系统的设计与实现/【5】本科指导教师审阅表.doc" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/niit_01_基于SSM框架的校园出入安全管理系统的设计与实现/6本科评阅教师审阅表.doc" beforeDir="false" afterPath="$PROJECT_DIR$/niit_01_基于SSM框架的校园出入安全管理系统的设计与实现/【6】本科评阅教师审阅表.doc" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/niit_01_基于SSM框架的校园出入安全管理系统的设计与实现/7本科答辩及综合成绩评定表.doc" beforeDir="false" afterPath="$PROJECT_DIR$/niit_01_基于SSM框架的校园出入安全管理系统的设计与实现/【7】本科答辩及综合成绩评定表.doc" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/niit_01_基于SSM框架的校园出入安全管理系统的设计与实现/8外文资料翻译.doc" beforeDir="false" afterPath="$PROJECT_DIR$/niit_01_基于SSM框架的校园出入安全管理系统的设计与实现/【8】外文资料翻译.doc" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/niit_01_基于SSM框架的校园出入安全管理系统的设计与实现/【2】基于SSM框架的校园出入安全管理系统的设计与实现 - 开题报告.docx" beforeDir="false" afterPath="$PROJECT_DIR$/niit_01_基于SSM框架的校园出入安全管理系统的设计与实现/【2】基于SSM框架的校园出入安全管理系统的设计与实现 - 开题报告.docx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/niit_01_基于SSM框架的校园出入安全管理系统的设计与实现/参考/基于SSM框架的校园出入安全管理系统的设计与实现.md" beforeDir="false" afterPath="$PROJECT_DIR$/niit_01_基于SSM框架的校园出入安全管理系统的设计与实现/参考/基于SSM框架的校园出入安全管理系统的设计与实现.md" afterDir="false" />
-    </list>
+    <list default="true" id="8b5fada3-3bcf-410f-a09f-a4576c729f85" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -119,6 +109,7 @@
       <workItem from="1701828771079" duration="199000" />
       <workItem from="1701841647314" duration="5461000" />
       <workItem from="1701859071883" duration="134000" />
+      <workItem from="1701914403949" duration="251000" />
     </task>
     <servers />
   </component>
