@@ -4,13 +4,50 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8b5fada3-3bcf-410f-a09f-a4576c729f85" name="Changes" comment="1" />
+    <list default="true" id="8b5fada3-3bcf-410f-a09f-a4576c729f85" name="Changes" comment="1">
+      <change beforePath="$PROJECT_DIR$/niit_01_基于SSM框架的校园出入安全管理系统的设计与实现/code/school-ui/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/niit_01_基于SSM框架的校园出入安全管理系统的设计与实现/code/school-ui/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/niit_01_基于SSM框架的校园出入安全管理系统的设计与实现/code/school-ui/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/niit_01_基于SSM框架的校园出入安全管理系统的设计与实现/code/school-ui/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/niit_01_基于SSM框架的校园出入安全管理系统的设计与实现/code/school-ui/src/api/system/user.js" beforeDir="false" afterPath="$PROJECT_DIR$/niit_01_基于SSM框架的校园出入安全管理系统的设计与实现/code/school-ui/src/api/system/user.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/niit_01_基于SSM框架的校园出入安全管理系统的设计与实现/code/school-ui/src/assets/styles/ruoyi.scss" beforeDir="false" afterPath="$PROJECT_DIR$/niit_01_基于SSM框架的校园出入安全管理系统的设计与实现/code/school-ui/src/assets/styles/pp.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/niit_01_基于SSM框架的校园出入安全管理系统的设计与实现/code/school-ui/src/components/RuoYi/Doc/index.vue" beforeDir="false" afterPath="$PROJECT_DIR$/niit_01_基于SSM框架的校园出入安全管理系统的设计与实现/code/school-ui/src/components/PP/Doc/index.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/niit_01_基于SSM框架的校园出入安全管理系统的设计与实现/code/school-ui/src/components/RuoYi/Git/index.vue" beforeDir="false" afterPath="$PROJECT_DIR$/niit_01_基于SSM框架的校园出入安全管理系统的设计与实现/code/school-ui/src/components/PP/Git/index.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/niit_01_基于SSM框架的校园出入安全管理系统的设计与实现/code/school-ui/src/directive/dialog/drag.js" beforeDir="false" afterPath="$PROJECT_DIR$/niit_01_基于SSM框架的校园出入安全管理系统的设计与实现/code/school-ui/src/directive/dialog/drag.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/niit_01_基于SSM框架的校园出入安全管理系统的设计与实现/code/school-ui/src/directive/dialog/dragHeight.js" beforeDir="false" afterPath="$PROJECT_DIR$/niit_01_基于SSM框架的校园出入安全管理系统的设计与实现/code/school-ui/src/directive/dialog/dragHeight.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/niit_01_基于SSM框架的校园出入安全管理系统的设计与实现/code/school-ui/src/directive/dialog/dragWidth.js" beforeDir="false" afterPath="$PROJECT_DIR$/niit_01_基于SSM框架的校园出入安全管理系统的设计与实现/code/school-ui/src/directive/dialog/dragWidth.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/niit_01_基于SSM框架的校园出入安全管理系统的设计与实现/code/school-ui/src/directive/module/clipboard.js" beforeDir="false" afterPath="$PROJECT_DIR$/niit_01_基于SSM框架的校园出入安全管理系统的设计与实现/code/school-ui/src/directive/module/clipboard.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/niit_01_基于SSM框架的校园出入安全管理系统的设计与实现/code/school-ui/src/directive/permission/hasPermi.js" beforeDir="false" afterPath="$PROJECT_DIR$/niit_01_基于SSM框架的校园出入安全管理系统的设计与实现/code/school-ui/src/directive/permission/hasPermi.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/niit_01_基于SSM框架的校园出入安全管理系统的设计与实现/code/school-ui/src/directive/permission/hasRole.js" beforeDir="false" afterPath="$PROJECT_DIR$/niit_01_基于SSM框架的校园出入安全管理系统的设计与实现/code/school-ui/src/directive/permission/hasRole.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/niit_01_基于SSM框架的校园出入安全管理系统的设计与实现/code/school-ui/src/layout/components/Navbar.vue" beforeDir="false" afterPath="$PROJECT_DIR$/niit_01_基于SSM框架的校园出入安全管理系统的设计与实现/code/school-ui/src/layout/components/Navbar.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/niit_01_基于SSM框架的校园出入安全管理系统的设计与实现/code/school-ui/src/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/niit_01_基于SSM框架的校园出入安全管理系统的设计与实现/code/school-ui/src/main.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/niit_01_基于SSM框架的校园出入安全管理系统的设计与实现/code/school-ui/src/plugins/download.js" beforeDir="false" afterPath="$PROJECT_DIR$/niit_01_基于SSM框架的校园出入安全管理系统的设计与实现/code/school-ui/src/plugins/download.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/niit_01_基于SSM框架的校园出入安全管理系统的设计与实现/code/school-ui/src/utils/dict/Dict.js" beforeDir="false" afterPath="$PROJECT_DIR$/niit_01_基于SSM框架的校园出入安全管理系统的设计与实现/code/school-ui/src/utils/dict/Dict.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/niit_01_基于SSM框架的校园出入安全管理系统的设计与实现/code/school-ui/src/utils/dict/DictMeta.js" beforeDir="false" afterPath="$PROJECT_DIR$/niit_01_基于SSM框架的校园出入安全管理系统的设计与实现/code/school-ui/src/utils/dict/DictMeta.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/niit_01_基于SSM框架的校园出入安全管理系统的设计与实现/code/school-ui/src/utils/dict/DictOptions.js" beforeDir="false" afterPath="$PROJECT_DIR$/niit_01_基于SSM框架的校园出入安全管理系统的设计与实现/code/school-ui/src/utils/dict/DictOptions.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/niit_01_基于SSM框架的校园出入安全管理系统的设计与实现/code/school-ui/src/utils/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/niit_01_基于SSM框架的校园出入安全管理系统的设计与实现/code/school-ui/src/utils/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/niit_01_基于SSM框架的校园出入安全管理系统的设计与实现/code/school-ui/src/utils/request.js" beforeDir="false" afterPath="$PROJECT_DIR$/niit_01_基于SSM框架的校园出入安全管理系统的设计与实现/code/school-ui/src/utils/request.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/niit_01_基于SSM框架的校园出入安全管理系统的设计与实现/code/school-ui/src/utils/ruoyi.js" beforeDir="false" afterPath="$PROJECT_DIR$/niit_01_基于SSM框架的校园出入安全管理系统的设计与实现/code/school-ui/src/utils/pp.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/niit_01_基于SSM框架的校园出入安全管理系统的设计与实现/code/school-ui/src/views/index.vue" beforeDir="false" afterPath="$PROJECT_DIR$/niit_01_基于SSM框架的校园出入安全管理系统的设计与实现/code/school-ui/src/views/index.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/niit_01_基于SSM框架的校园出入安全管理系统的设计与实现/code/school-ui/src/views/login.vue" beforeDir="false" afterPath="$PROJECT_DIR$/niit_01_基于SSM框架的校园出入安全管理系统的设计与实现/code/school-ui/src/views/login.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/niit_01_基于SSM框架的校园出入安全管理系统的设计与实现/code/school-ui/src/views/monitor/job/index.vue" beforeDir="false" afterPath="$PROJECT_DIR$/niit_01_基于SSM框架的校园出入安全管理系统的设计与实现/code/school-ui/src/views/monitor/job/index.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/niit_01_基于SSM框架的校园出入安全管理系统的设计与实现/code/school-ui/src/views/register.vue" beforeDir="false" afterPath="$PROJECT_DIR$/niit_01_基于SSM框架的校园出入安全管理系统的设计与实现/code/school-ui/src/views/register.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/niit_01_基于SSM框架的校园出入安全管理系统的设计与实现/code/school-ui/src/views/tool/gen/genInfoForm.vue" beforeDir="false" afterPath="$PROJECT_DIR$/niit_01_基于SSM框架的校园出入安全管理系统的设计与实现/code/school-ui/src/views/tool/gen/genInfoForm.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/niit_01_基于SSM框架的校园出入安全管理系统的设计与实现/code/school-ui/src/views/tool/gen/index.vue" beforeDir="false" afterPath="$PROJECT_DIR$/niit_01_基于SSM框架的校园出入安全管理系统的设计与实现/code/school-ui/src/views/tool/gen/index.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/niit_01_基于SSM框架的校园出入安全管理系统的设计与实现/code/school-ui/vue.config.js" beforeDir="false" afterPath="$PROJECT_DIR$/niit_01_基于SSM框架的校园出入安全管理系统的设计与实现/code/school-ui/vue.config.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/niit_01_基于SSM框架的校园出入安全管理系统的设计与实现/code/school/school-admin/src/main/resources/application-druid.yml" beforeDir="false" afterPath="$PROJECT_DIR$/niit_01_基于SSM框架的校园出入安全管理系统的设计与实现/code/school/school-admin/src/main/resources/application-druid.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/niit_01_基于SSM框架的校园出入安全管理系统的设计与实现/code/school/sql/ry_20230706.sql" beforeDir="false" afterPath="$PROJECT_DIR$/niit_01_基于SSM框架的校园出入安全管理系统的设计与实现/code/school/sql/ry_20230706.sql" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="Git.Settings">
+    <option name="PUSH_TAGS">
+      <GitPushTagMode>
+        <option name="argument" value="--tags" />
+        <option name="title" value="All" />
+      </GitPushTagMode>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="MarkdownSettingsMigration">
@@ -48,7 +85,7 @@
     "project.structure.last.edited": "Modules",
     "project.structure.proportion": "0.0",
     "project.structure.side.proportion": "0.0",
-    "settings.editor.selected.configurable": "inlay.hints",
+    "settings.editor.selected.configurable": "project.propVCSSupport.DirectoryMappings",
     "ts.external.directory.path": "/Users/panpan/Applications/IntelliJ IDEA Ultimate.app/Contents/plugins/javascript-impl/jsLanguageServicesImpl/external",
     "vue.rearranger.settings.migration": "true"
   }
@@ -60,6 +97,7 @@
       <recent name="$PROJECT_DIR$/niit_01_基于SSM框架的校园出入安全管理系统的设计与实现/code/school/school-generator" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/niit_01_基于SSM框架的校园出入安全管理系统的设计与实现/文档" />
       <recent name="$PROJECT_DIR$/niit-参考" />
     </key>
   </component>
@@ -103,6 +141,7 @@
       <workItem from="1701914403949" duration="251000" />
       <workItem from="1701944775936" duration="725000" />
       <workItem from="1701946110953" duration="883000" />
+      <workItem from="1702000285774" duration="1680000" />
     </task>
     <task id="LOCAL-00001" summary="1">
       <option name="closed" value="true" />
@@ -117,6 +156,17 @@
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />

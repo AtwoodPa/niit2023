@@ -1,15 +1,15 @@
 <template>
   <div>
-    <svg-icon icon-class="github" @click="goto" />
+    <svg-icon icon-class="question" @click="goto" />
   </div>
 </template>
 
 <script>
 export default {
-  name: 'RuoYiGit',
+  name: 'PPDoc',
   data() {
     return {
-      url: 'https://gitee.com/y_project/RuoYi-Vue'
+      url: 'http://doc.pp.vip/pp-vue'
     }
   },
   methods: {

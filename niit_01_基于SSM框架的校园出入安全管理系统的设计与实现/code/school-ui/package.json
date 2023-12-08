@@ -1,8 +1,8 @@
 {
-  "name": "ruoyi",
+  "name": "pp",
   "version": "3.8.6",
-  "description": "若依管理系统",
-  "author": "若依",
+  "description": "校园出入安全管理系统",
+  "author": "pp",
   "license": "MIT",
   "scripts": {
     "dev": "vue-cli-service serve",
@@ -33,7 +33,7 @@
   ],
   "repository": {
     "type": "git",
-    "url": "https://gitee.com/y_project/RuoYi-Vue.git"
+    "url": "https://gitee.com/y_project/pp-Vue.git"
   },
   "dependencies": {
     "@riophae/vue-treeselect": "0.4.0",
