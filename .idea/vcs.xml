@@ -2,5 +2,6 @@
 <project version="4">
   <component name="VcsDirectoryMappings">
     <mapping directory="" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/niit_01_基于SSM框架的校园出入安全管理系统的设计与实现/code/school-mobile" vcs="Git" />
   </component>
 </project>
