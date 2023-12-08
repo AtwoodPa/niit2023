@@ -334,3 +334,6 @@ https://blog.csdn.net/m0_71801415/article/details/128501092
 [Java毕设项目——校园出入管理系统(java+SSM+Maven+Mysql+Jsp)_一季春秋的博客-CSDN博客](https://blog.csdn.net/m0_49113107/article/details/126804972)
 
 [校园一卡通出入门禁系统的设计与实现_参考网](https://www.fx361.com/page/2017/0606/1870471.shtml)
+
+
+ExpSchool校园来访预约小程序：https://gitee.com/leerechard/ExpSchool?_from=gitee_search
