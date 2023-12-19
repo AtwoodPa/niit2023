@@ -7,16 +7,10 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="ym-generator" />
-        <module name="school-quartz" />
-        <module name="school-admin" />
         <module name="ym-admin" />
         <module name="ym-common" />
         <module name="ym-system" />
-        <module name="school-common" />
-        <module name="school-framework" />
         <module name="ym-quartz" />
-        <module name="school-system" />
-        <module name="school-generator" />
         <module name="ym-framework" />
       </profile>
     </annotationProcessing>
@@ -37,6 +31,13 @@
       <module name="office-generator" target="1.8" />
       <module name="office-quartz" target="1.8" />
       <module name="office-system" target="1.8" />
+      <module name="school" target="1.8" />
+      <module name="school-admin" target="1.8" />
+      <module name="school-common" target="1.8" />
+      <module name="school-framework" target="1.8" />
+      <module name="school-generator" target="1.8" />
+      <module name="school-quartz" target="1.8" />
+      <module name="school-system" target="1.8" />
     </bytecodeTargetLevel>
   </component>
 </project>
