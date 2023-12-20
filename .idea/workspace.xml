@@ -5,675 +5,113 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8b5fada3-3bcf-410f-a09f-a4576c729f85" name="Changes" comment="1">
-      <change beforePath="$PROJECT_DIR$/2024届毕设通知.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/niit-参考/150310340 陈文航/150310340 陈文航 前期材料/150310340 陈文航 中期检查表.doc" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/niit-参考/150310340 陈文航/150310340 陈文航 前期材料/150310340 陈文航 任务书.doc" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/niit-参考/150310340 陈文航/150310340 陈文航 前期材料/150310340 陈文航 前期工作材料目录.doc" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/niit-参考/150310340 陈文航/150310340 陈文航 前期材料/150310340 陈文航 外文原文.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/niit-参考/150310340 陈文航/150310340 陈文航 前期材料/150310340 陈文航 外文资料翻译.doc" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/niit-参考/150310340 陈文航/150310340 陈文航 前期材料/150310340 陈文航 开题报告.doc" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/niit-参考/150310340 陈文航/150310340 陈文航 前期材料/150310340 陈文航 选题审题表.doc" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/niit-参考/150310340 陈文航/150310340 陈文航 毕业论文/150310340 陈文航 毕业论文封面、摘要.doc" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/niit-参考/150310340 陈文航/150310340 陈文航 毕业论文/150310340 陈文航 毕业论文正文、结论、参考文献.doc" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/niit-参考/150310340 陈文航/150310340 陈文航 毕业论文/150310340 陈文航 毕业论文目次.doc" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/niit-参考/150310340 陈文航/150310340 陈文航 毕业论文/150310340 陈文航 毕业论文评语.doc" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/niit-参考/150310340 陈文航/150310340 陈文航 毕业论文/基于Web的IT教育课程考评系统的开发与实现查重报告.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/niit-参考/150310340 陈文航/150310340 陈文航 程序.rar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/niit-参考/160310348 王依灵/160310348 王依灵 前期材料/160310348 王依灵 中期检查表.doc" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/niit-参考/160310348 王依灵/160310348 王依灵 前期材料/160310348 王依灵 任务书.doc" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/niit-参考/160310348 王依灵/160310348 王依灵 前期材料/160310348 王依灵 前期工作材料目录.doc" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/niit-参考/160310348 王依灵/160310348 王依灵 前期材料/160310348 王依灵 外文资料原文.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/niit-参考/160310348 王依灵/160310348 王依灵 前期材料/160310348 王依灵 外文资料翻译.doc" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/niit-参考/160310348 王依灵/160310348 王依灵 前期材料/160310348 王依灵 开题报告.doc" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/niit-参考/160310348 王依灵/160310348 王依灵 前期材料/160310348 王依灵 选题审题表.doc" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/niit-参考/160310348 王依灵/160310348 王依灵 毕业论文/160310348 王依灵 毕业论文封面、摘要.doc" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/niit-参考/160310348 王依灵/160310348 王依灵 毕业论文/160310348 王依灵 毕业论文正文、结论、参考文献.doc" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/niit-参考/160310348 王依灵/160310348 王依灵 毕业论文/160310348 王依灵 毕业论文目次.doc" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/niit-参考/160310348 王依灵/160310348 王依灵 毕业论文/160310348 王依灵 毕业论文评语.doc" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/niit-参考/160310348 王依灵/160310348 王依灵 毕业论文/基于J2EE的高校综合教务管理系统的设计与实现查重报告.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/niit-参考/160310348 王依灵/160310348 王依灵 程序.rar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/niit-参考/170310263 张凌云/170310263 张凌云 前期材料/170310263 张凌云 中期检查表.doc" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/niit-参考/170310263 张凌云/170310263 张凌云 前期材料/170310263 张凌云 任务书.doc" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/niit-参考/170310263 张凌云/170310263 张凌云 前期材料/170310263 张凌云 前期工作材料目录.doc" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/niit-参考/170310263 张凌云/170310263 张凌云 前期材料/170310263 张凌云 外文原文.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/niit-参考/170310263 张凌云/170310263 张凌云 前期材料/170310263 张凌云 外文资料翻译.doc" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/niit-参考/170310263 张凌云/170310263 张凌云 前期材料/170310263 张凌云 开题报告.doc" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/niit-参考/170310263 张凌云/170310263 张凌云 前期材料/170310263 张凌云 选题审题表.doc" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/niit-参考/170310263 张凌云/170310263 张凌云 毕业论文/170310263 张凌云 毕业论文封面、摘要.doc" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/niit-参考/170310263 张凌云/170310263 张凌云 毕业论文/170310263 张凌云 毕业论文正文、结论、参考文献.doc" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/niit-参考/170310263 张凌云/170310263 张凌云 毕业论文/170310263 张凌云 毕业论文目次.doc" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/niit-参考/170310263 张凌云/170310263 张凌云 毕业论文/170310263 张凌云 毕业论文评语.doc" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/niit-参考/170310263 张凌云/170310263 张凌云 毕业论文/170310263-张凌云-基于Web的IT教育课程考评系统的开发与实现_简洁报告.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/niit-参考/170310263 张凌云/170310263 张凌云 程序.zip" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/niit_01_基于SSM框架的校园出入安全管理系统的设计与实现/code/school-ui/.editorconfig" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/niit_01_基于SSM框架的校园出入安全管理系统的设计与实现/code/school-ui/.env.development" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/niit_01_基于SSM框架的校园出入安全管理系统的设计与实现/code/school-ui/.env.production" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/niit_01_基于SSM框架的校园出入安全管理系统的设计与实现/code/school-ui/.env.staging" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/niit_01_基于SSM框架的校园出入安全管理系统的设计与实现/code/school-ui/.eslintignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/niit_01_基于SSM框架的校园出入安全管理系统的设计与实现/code/school-ui/.eslintrc.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/niit_01_基于SSM框架的校园出入安全管理系统的设计与实现/code/school-ui/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/niit_01_基于SSM框架的校园出入安全管理系统的设计与实现/code/school-ui/babel.config.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/niit_01_基于SSM框架的校园出入安全管理系统的设计与实现/code/school-ui/bin/build.bat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/niit_01_基于SSM框架的校园出入安全管理系统的设计与实现/code/school-ui/bin/package.bat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/niit_01_基于SSM框架的校园出入安全管理系统的设计与实现/code/school-ui/bin/run-web.bat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/niit_01_基于SSM框架的校园出入安全管理系统的设计与实现/code/school-ui/build/index.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/niit_01_基于SSM框架的校园出入安全管理系统的设计与实现/code/school-ui/package.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/niit_01_基于SSM框架的校园出入安全管理系统的设计与实现/code/school-ui/public/favicon.ico" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/niit_01_基于SSM框架的校园出入安全管理系统的设计与实现/code/school-ui/public/html/ie.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/niit_01_基于SSM框架的校园出入安全管理系统的设计与实现/code/school-ui/public/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/niit_01_基于SSM框架的校园出入安全管理系统的设计与实现/code/school-ui/public/robots.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/niit_01_基于SSM框架的校园出入安全管理系统的设计与实现/code/school-ui/src/App.vue" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/niit_01_基于SSM框架的校园出入安全管理系统的设计与实现/code/school-ui/src/api/login.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/niit_01_基于SSM框架的校园出入安全管理系统的设计与实现/code/school-ui/src/api/menu.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/niit_01_基于SSM框架的校园出入安全管理系统的设计与实现/code/school-ui/src/api/monitor/cache.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/niit_01_基于SSM框架的校园出入安全管理系统的设计与实现/code/school-ui/src/api/monitor/job.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/niit_01_基于SSM框架的校园出入安全管理系统的设计与实现/code/school-ui/src/api/monitor/jobLog.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/niit_01_基于SSM框架的校园出入安全管理系统的设计与实现/code/school-ui/src/api/monitor/logininfor.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/niit_01_基于SSM框架的校园出入安全管理系统的设计与实现/code/school-ui/src/api/monitor/online.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/niit_01_基于SSM框架的校园出入安全管理系统的设计与实现/code/school-ui/src/api/monitor/operlog.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/niit_01_基于SSM框架的校园出入安全管理系统的设计与实现/code/school-ui/src/api/monitor/server.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/niit_01_基于SSM框架的校园出入安全管理系统的设计与实现/code/school-ui/src/api/system/config.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/niit_01_基于SSM框架的校园出入安全管理系统的设计与实现/code/school-ui/src/api/system/dept.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/niit_01_基于SSM框架的校园出入安全管理系统的设计与实现/code/school-ui/src/api/system/dict/data.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/niit_01_基于SSM框架的校园出入安全管理系统的设计与实现/code/school-ui/src/api/system/dict/type.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/niit_01_基于SSM框架的校园出入安全管理系统的设计与实现/code/school-ui/src/api/system/menu.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/niit_01_基于SSM框架的校园出入安全管理系统的设计与实现/code/school-ui/src/api/system/notice.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/niit_01_基于SSM框架的校园出入安全管理系统的设计与实现/code/school-ui/src/api/system/post.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/niit_01_基于SSM框架的校园出入安全管理系统的设计与实现/code/school-ui/src/api/system/role.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/niit_01_基于SSM框架的校园出入安全管理系统的设计与实现/code/school-ui/src/api/system/user.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/niit_01_基于SSM框架的校园出入安全管理系统的设计与实现/code/school-ui/src/api/tool/gen.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/niit_01_基于SSM框架的校园出入安全管理系统的设计与实现/code/school-ui/src/assets/401_images/401.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/niit_01_基于SSM框架的校园出入安全管理系统的设计与实现/code/school-ui/src/assets/404_images/404.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/niit_01_基于SSM框架的校园出入安全管理系统的设计与实现/code/school-ui/src/assets/404_images/404_cloud.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/niit_01_基于SSM框架的校园出入安全管理系统的设计与实现/code/school-ui/src/assets/icons/index.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/niit_01_基于SSM框架的校园出入安全管理系统的设计与实现/code/school-ui/src/assets/icons/svg/404.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/niit_01_基于SSM框架的校园出入安全管理系统的设计与实现/code/school-ui/src/assets/icons/svg/bug.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/niit_01_基于SSM框架的校园出入安全管理系统的设计与实现/code/school-ui/src/assets/icons/svg/build.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/niit_01_基于SSM框架的校园出入安全管理系统的设计与实现/code/school-ui/src/assets/icons/svg/button.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/niit_01_基于SSM框架的校园出入安全管理系统的设计与实现/code/school-ui/src/assets/icons/svg/cascader.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/niit_01_基于SSM框架的校园出入安全管理系统的设计与实现/code/school-ui/src/assets/icons/svg/chart.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/niit_01_基于SSM框架的校园出入安全管理系统的设计与实现/code/school-ui/src/assets/icons/svg/checkbox.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/niit_01_基于SSM框架的校园出入安全管理系统的设计与实现/code/school-ui/src/assets/icons/svg/clipboard.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/niit_01_基于SSM框架的校园出入安全管理系统的设计与实现/code/school-ui/src/assets/icons/svg/code.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/niit_01_基于SSM框架的校园出入安全管理系统的设计与实现/code/school-ui/src/assets/icons/svg/color.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/niit_01_基于SSM框架的校园出入安全管理系统的设计与实现/code/school-ui/src/assets/icons/svg/component.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/niit_01_基于SSM框架的校园出入安全管理系统的设计与实现/code/school-ui/src/assets/icons/svg/dashboard.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/niit_01_基于SSM框架的校园出入安全管理系统的设计与实现/code/school-ui/src/assets/icons/svg/date-range.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/niit_01_基于SSM框架的校园出入安全管理系统的设计与实现/code/school-ui/src/assets/icons/svg/date.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/niit_01_基于SSM框架的校园出入安全管理系统的设计与实现/code/school-ui/src/assets/icons/svg/dict.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/niit_01_基于SSM框架的校园出入安全管理系统的设计与实现/code/school-ui/src/assets/icons/svg/documentation.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/niit_01_基于SSM框架的校园出入安全管理系统的设计与实现/code/school-ui/src/assets/icons/svg/download.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/niit_01_基于SSM框架的校园出入安全管理系统的设计与实现/code/school-ui/src/assets/icons/svg/drag.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/niit_01_基于SSM框架的校园出入安全管理系统的设计与实现/code/school-ui/src/assets/icons/svg/druid.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/niit_01_基于SSM框架的校园出入安全管理系统的设计与实现/code/school-ui/src/assets/icons/svg/edit.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/niit_01_基于SSM框架的校园出入安全管理系统的设计与实现/code/school-ui/src/assets/icons/svg/education.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/niit_01_基于SSM框架的校园出入安全管理系统的设计与实现/code/school-ui/src/assets/icons/svg/email.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/niit_01_基于SSM框架的校园出入安全管理系统的设计与实现/code/school-ui/src/assets/icons/svg/example.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/niit_01_基于SSM框架的校园出入安全管理系统的设计与实现/code/school-ui/src/assets/icons/svg/excel.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/niit_01_基于SSM框架的校园出入安全管理系统的设计与实现/code/school-ui/src/assets/icons/svg/exit-fullscreen.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/niit_01_基于SSM框架的校园出入安全管理系统的设计与实现/code/school-ui/src/assets/icons/svg/eye-open.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/niit_01_基于SSM框架的校园出入安全管理系统的设计与实现/code/school-ui/src/assets/icons/svg/eye.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/niit_01_基于SSM框架的校园出入安全管理系统的设计与实现/code/school-ui/src/assets/icons/svg/form.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/niit_01_基于SSM框架的校园出入安全管理系统的设计与实现/code/school-ui/src/assets/icons/svg/fullscreen.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/niit_01_基于SSM框架的校园出入安全管理系统的设计与实现/code/school-ui/src/assets/icons/svg/github.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/niit_01_基于SSM框架的校园出入安全管理系统的设计与实现/code/school-ui/src/assets/icons/svg/guide.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/niit_01_基于SSM框架的校园出入安全管理系统的设计与实现/code/school-ui/src/assets/icons/svg/icon.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/niit_01_基于SSM框架的校园出入安全管理系统的设计与实现/code/school-ui/src/assets/icons/svg/input.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/niit_01_基于SSM框架的校园出入安全管理系统的设计与实现/code/school-ui/src/assets/icons/svg/international.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/niit_01_基于SSM框架的校园出入安全管理系统的设计与实现/code/school-ui/src/assets/icons/svg/job.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/niit_01_基于SSM框架的校园出入安全管理系统的设计与实现/code/school-ui/src/assets/icons/svg/language.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/niit_01_基于SSM框架的校园出入安全管理系统的设计与实现/code/school-ui/src/assets/icons/svg/link.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/niit_01_基于SSM框架的校园出入安全管理系统的设计与实现/code/school-ui/src/assets/icons/svg/list.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/niit_01_基于SSM框架的校园出入安全管理系统的设计与实现/code/school-ui/src/assets/icons/svg/lock.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/niit_01_基于SSM框架的校园出入安全管理系统的设计与实现/code/school-ui/src/assets/icons/svg/log.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/niit_01_基于SSM框架的校园出入安全管理系统的设计与实现/code/school-ui/src/assets/icons/svg/logininfor.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/niit_01_基于SSM框架的校园出入安全管理系统的设计与实现/code/school-ui/src/assets/icons/svg/message.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/niit_01_基于SSM框架的校园出入安全管理系统的设计与实现/code/school-ui/src/assets/icons/svg/money.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/niit_01_基于SSM框架的校园出入安全管理系统的设计与实现/code/school-ui/src/assets/icons/svg/monitor.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/niit_01_基于SSM框架的校园出入安全管理系统的设计与实现/code/school-ui/src/assets/icons/svg/nested.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/niit_01_基于SSM框架的校园出入安全管理系统的设计与实现/code/school-ui/src/assets/icons/svg/number.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/niit_01_基于SSM框架的校园出入安全管理系统的设计与实现/code/school-ui/src/assets/icons/svg/online.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/niit_01_基于SSM框架的校园出入安全管理系统的设计与实现/code/school-ui/src/assets/icons/svg/password.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/niit_01_基于SSM框架的校园出入安全管理系统的设计与实现/code/school-ui/src/assets/icons/svg/pdf.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/niit_01_基于SSM框架的校园出入安全管理系统的设计与实现/code/school-ui/src/assets/icons/svg/people.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/niit_01_基于SSM框架的校园出入安全管理系统的设计与实现/code/school-ui/src/assets/icons/svg/peoples.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/niit_01_基于SSM框架的校园出入安全管理系统的设计与实现/code/school-ui/src/assets/icons/svg/phone.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/niit_01_基于SSM框架的校园出入安全管理系统的设计与实现/code/school-ui/src/assets/icons/svg/post.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/niit_01_基于SSM框架的校园出入安全管理系统的设计与实现/code/school-ui/src/assets/icons/svg/qq.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/niit_01_基于SSM框架的校园出入安全管理系统的设计与实现/code/school-ui/src/assets/icons/svg/question.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/niit_01_基于SSM框架的校园出入安全管理系统的设计与实现/code/school-ui/src/assets/icons/svg/radio.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/niit_01_基于SSM框架的校园出入安全管理系统的设计与实现/code/school-ui/src/assets/icons/svg/rate.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/niit_01_基于SSM框架的校园出入安全管理系统的设计与实现/code/school-ui/src/assets/icons/svg/redis-list.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/niit_01_基于SSM框架的校园出入安全管理系统的设计与实现/code/school-ui/src/assets/icons/svg/redis.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/niit_01_基于SSM框架的校园出入安全管理系统的设计与实现/code/school-ui/src/assets/icons/svg/row.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/niit_01_基于SSM框架的校园出入安全管理系统的设计与实现/code/school-ui/src/assets/icons/svg/search.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/niit_01_基于SSM框架的校园出入安全管理系统的设计与实现/code/school-ui/src/assets/icons/svg/select.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/niit_01_基于SSM框架的校园出入安全管理系统的设计与实现/code/school-ui/src/assets/icons/svg/server.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/niit_01_基于SSM框架的校园出入安全管理系统的设计与实现/code/school-ui/src/assets/icons/svg/shopping.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/niit_01_基于SSM框架的校园出入安全管理系统的设计与实现/code/school-ui/src/assets/icons/svg/size.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/niit_01_基于SSM框架的校园出入安全管理系统的设计与实现/code/school-ui/src/assets/icons/svg/skill.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/niit_01_基于SSM框架的校园出入安全管理系统的设计与实现/code/school-ui/src/assets/icons/svg/slider.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/niit_01_基于SSM框架的校园出入安全管理系统的设计与实现/code/school-ui/src/assets/icons/svg/star.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/niit_01_基于SSM框架的校园出入安全管理系统的设计与实现/code/school-ui/src/assets/icons/svg/swagger.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/niit_01_基于SSM框架的校园出入安全管理系统的设计与实现/code/school-ui/src/assets/icons/svg/switch.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/niit_01_基于SSM框架的校园出入安全管理系统的设计与实现/code/school-ui/src/assets/icons/svg/system.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/niit_01_基于SSM框架的校园出入安全管理系统的设计与实现/code/school-ui/src/assets/icons/svg/tab.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/niit_01_基于SSM框架的校园出入安全管理系统的设计与实现/code/school-ui/src/assets/icons/svg/table.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/niit_01_基于SSM框架的校园出入安全管理系统的设计与实现/code/school-ui/src/assets/icons/svg/textarea.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/niit_01_基于SSM框架的校园出入安全管理系统的设计与实现/code/school-ui/src/assets/icons/svg/theme.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/niit_01_基于SSM框架的校园出入安全管理系统的设计与实现/code/school-ui/src/assets/icons/svg/time-range.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/niit_01_基于SSM框架的校园出入安全管理系统的设计与实现/code/school-ui/src/assets/icons/svg/time.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/niit_01_基于SSM框架的校园出入安全管理系统的设计与实现/code/school-ui/src/assets/icons/svg/tool.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/niit_01_基于SSM框架的校园出入安全管理系统的设计与实现/code/school-ui/src/assets/icons/svg/tree-table.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/niit_01_基于SSM框架的校园出入安全管理系统的设计与实现/code/school-ui/src/assets/icons/svg/tree.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/niit_01_基于SSM框架的校园出入安全管理系统的设计与实现/code/school-ui/src/assets/icons/svg/upload.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/niit_01_基于SSM框架的校园出入安全管理系统的设计与实现/code/school-ui/src/assets/icons/svg/user.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/niit_01_基于SSM框架的校园出入安全管理系统的设计与实现/code/school-ui/src/assets/icons/svg/validCode.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/niit_01_基于SSM框架的校园出入安全管理系统的设计与实现/code/school-ui/src/assets/icons/svg/wechat.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/niit_01_基于SSM框架的校园出入安全管理系统的设计与实现/code/school-ui/src/assets/icons/svg/zip.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/niit_01_基于SSM框架的校园出入安全管理系统的设计与实现/code/school-ui/src/assets/icons/svgo.yml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/niit_01_基于SSM框架的校园出入安全管理系统的设计与实现/code/school-ui/src/assets/images/dark.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/niit_01_基于SSM框架的校园出入安全管理系统的设计与实现/code/school-ui/src/assets/images/light.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/niit_01_基于SSM框架的校园出入安全管理系统的设计与实现/code/school-ui/src/assets/images/login-background.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/niit_01_基于SSM框架的校园出入安全管理系统的设计与实现/code/school-ui/src/assets/images/pay.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/niit_01_基于SSM框架的校园出入安全管理系统的设计与实现/code/school-ui/src/assets/images/profile.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/niit_01_基于SSM框架的校园出入安全管理系统的设计与实现/code/school-ui/src/assets/logo/logo.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/niit_01_基于SSM框架的校园出入安全管理系统的设计与实现/code/school-ui/src/assets/styles/btn.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/niit_01_基于SSM框架的校园出入安全管理系统的设计与实现/code/school-ui/src/assets/styles/element-ui.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/niit_01_基于SSM框架的校园出入安全管理系统的设计与实现/code/school-ui/src/assets/styles/element-variables.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/niit_01_基于SSM框架的校园出入安全管理系统的设计与实现/code/school-ui/src/assets/styles/index.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/niit_01_基于SSM框架的校园出入安全管理系统的设计与实现/code/school-ui/src/assets/styles/mixin.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/niit_01_基于SSM框架的校园出入安全管理系统的设计与实现/code/school-ui/src/assets/styles/pp.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/niit_01_基于SSM框架的校园出入安全管理系统的设计与实现/code/school-ui/src/assets/styles/sidebar.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/niit_01_基于SSM框架的校园出入安全管理系统的设计与实现/code/school-ui/src/assets/styles/transition.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/niit_01_基于SSM框架的校园出入安全管理系统的设计与实现/code/school-ui/src/assets/styles/variables.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/niit_01_基于SSM框架的校园出入安全管理系统的设计与实现/code/school-ui/src/components/Breadcrumb/index.vue" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/niit_01_基于SSM框架的校园出入安全管理系统的设计与实现/code/school-ui/src/components/Crontab/day.vue" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/niit_01_基于SSM框架的校园出入安全管理系统的设计与实现/code/school-ui/src/components/Crontab/hour.vue" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/niit_01_基于SSM框架的校园出入安全管理系统的设计与实现/code/school-ui/src/components/Crontab/index.vue" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/niit_01_基于SSM框架的校园出入安全管理系统的设计与实现/code/school-ui/src/components/Crontab/min.vue" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/niit_01_基于SSM框架的校园出入安全管理系统的设计与实现/code/school-ui/src/components/Crontab/month.vue" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/niit_01_基于SSM框架的校园出入安全管理系统的设计与实现/code/school-ui/src/components/Crontab/result.vue" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/niit_01_基于SSM框架的校园出入安全管理系统的设计与实现/code/school-ui/src/components/Crontab/second.vue" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/niit_01_基于SSM框架的校园出入安全管理系统的设计与实现/code/school-ui/src/components/Crontab/week.vue" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/niit_01_基于SSM框架的校园出入安全管理系统的设计与实现/code/school-ui/src/components/Crontab/year.vue" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/niit_01_基于SSM框架的校园出入安全管理系统的设计与实现/code/school-ui/src/components/DictData/index.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/niit_01_基于SSM框架的校园出入安全管理系统的设计与实现/code/school-ui/src/components/DictTag/index.vue" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/niit_01_基于SSM框架的校园出入安全管理系统的设计与实现/code/school-ui/src/components/Editor/index.vue" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/niit_01_基于SSM框架的校园出入安全管理系统的设计与实现/code/school-ui/src/components/FileUpload/index.vue" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/niit_01_基于SSM框架的校园出入安全管理系统的设计与实现/code/school-ui/src/components/Hamburger/index.vue" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/niit_01_基于SSM框架的校园出入安全管理系统的设计与实现/code/school-ui/src/components/HeaderSearch/index.vue" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/niit_01_基于SSM框架的校园出入安全管理系统的设计与实现/code/school-ui/src/components/IconSelect/index.vue" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/niit_01_基于SSM框架的校园出入安全管理系统的设计与实现/code/school-ui/src/components/IconSelect/requireIcons.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/niit_01_基于SSM框架的校园出入安全管理系统的设计与实现/code/school-ui/src/components/ImagePreview/index.vue" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/niit_01_基于SSM框架的校园出入安全管理系统的设计与实现/code/school-ui/src/components/ImageUpload/index.vue" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/niit_01_基于SSM框架的校园出入安全管理系统的设计与实现/code/school-ui/src/components/PP/Doc/index.vue" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/niit_01_基于SSM框架的校园出入安全管理系统的设计与实现/code/school-ui/src/components/PP/Git/index.vue" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/niit_01_基于SSM框架的校园出入安全管理系统的设计与实现/code/school-ui/src/components/Pagination/index.vue" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/niit_01_基于SSM框架的校园出入安全管理系统的设计与实现/code/school-ui/src/components/PanThumb/index.vue" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/niit_01_基于SSM框架的校园出入安全管理系统的设计与实现/code/school-ui/src/components/ParentView/index.vue" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/niit_01_基于SSM框架的校园出入安全管理系统的设计与实现/code/school-ui/src/components/RightPanel/index.vue" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/niit_01_基于SSM框架的校园出入安全管理系统的设计与实现/code/school-ui/src/components/RightToolbar/index.vue" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/niit_01_基于SSM框架的校园出入安全管理系统的设计与实现/code/school-ui/src/components/Screenfull/index.vue" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/niit_01_基于SSM框架的校园出入安全管理系统的设计与实现/code/school-ui/src/components/SizeSelect/index.vue" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/niit_01_基于SSM框架的校园出入安全管理系统的设计与实现/code/school-ui/src/components/SvgIcon/index.vue" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/niit_01_基于SSM框架的校园出入安全管理系统的设计与实现/code/school-ui/src/components/ThemePicker/index.vue" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/niit_01_基于SSM框架的校园出入安全管理系统的设计与实现/code/school-ui/src/components/TopNav/index.vue" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/niit_01_基于SSM框架的校园出入安全管理系统的设计与实现/code/school-ui/src/components/iFrame/index.vue" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/niit_01_基于SSM框架的校园出入安全管理系统的设计与实现/code/school-ui/src/directive/dialog/drag.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/niit_01_基于SSM框架的校园出入安全管理系统的设计与实现/code/school-ui/src/directive/dialog/dragHeight.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/niit_01_基于SSM框架的校园出入安全管理系统的设计与实现/code/school-ui/src/directive/dialog/dragWidth.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/niit_01_基于SSM框架的校园出入安全管理系统的设计与实现/code/school-ui/src/directive/index.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/niit_01_基于SSM框架的校园出入安全管理系统的设计与实现/code/school-ui/src/directive/module/clipboard.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/niit_01_基于SSM框架的校园出入安全管理系统的设计与实现/code/school-ui/src/directive/permission/hasPermi.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/niit_01_基于SSM框架的校园出入安全管理系统的设计与实现/code/school-ui/src/directive/permission/hasRole.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/niit_01_基于SSM框架的校园出入安全管理系统的设计与实现/code/school-ui/src/layout/components/AppMain.vue" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/niit_01_基于SSM框架的校园出入安全管理系统的设计与实现/code/school-ui/src/layout/components/IframeToggle/index.vue" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/niit_01_基于SSM框架的校园出入安全管理系统的设计与实现/code/school-ui/src/layout/components/InnerLink/index.vue" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/niit_01_基于SSM框架的校园出入安全管理系统的设计与实现/code/school-ui/src/layout/components/Navbar.vue" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/niit_01_基于SSM框架的校园出入安全管理系统的设计与实现/code/school-ui/src/layout/components/Settings/index.vue" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/niit_01_基于SSM框架的校园出入安全管理系统的设计与实现/code/school-ui/src/layout/components/Sidebar/FixiOSBug.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/niit_01_基于SSM框架的校园出入安全管理系统的设计与实现/code/school-ui/src/layout/components/Sidebar/Item.vue" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/niit_01_基于SSM框架的校园出入安全管理系统的设计与实现/code/school-ui/src/layout/components/Sidebar/Link.vue" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/niit_01_基于SSM框架的校园出入安全管理系统的设计与实现/code/school-ui/src/layout/components/Sidebar/Logo.vue" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/niit_01_基于SSM框架的校园出入安全管理系统的设计与实现/code/school-ui/src/layout/components/Sidebar/SidebarItem.vue" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/niit_01_基于SSM框架的校园出入安全管理系统的设计与实现/code/school-ui/src/layout/components/Sidebar/index.vue" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/niit_01_基于SSM框架的校园出入安全管理系统的设计与实现/code/school-ui/src/layout/components/TagsView/ScrollPane.vue" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/niit_01_基于SSM框架的校园出入安全管理系统的设计与实现/code/school-ui/src/layout/components/TagsView/index.vue" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/niit_01_基于SSM框架的校园出入安全管理系统的设计与实现/code/school-ui/src/layout/components/index.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/niit_01_基于SSM框架的校园出入安全管理系统的设计与实现/code/school-ui/src/layout/index.vue" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/niit_01_基于SSM框架的校园出入安全管理系统的设计与实现/code/school-ui/src/layout/mixin/ResizeHandler.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/niit_01_基于SSM框架的校园出入安全管理系统的设计与实现/code/school-ui/src/main.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/niit_01_基于SSM框架的校园出入安全管理系统的设计与实现/code/school-ui/src/permission.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/niit_01_基于SSM框架的校园出入安全管理系统的设计与实现/code/school-ui/src/plugins/auth.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/niit_01_基于SSM框架的校园出入安全管理系统的设计与实现/code/school-ui/src/plugins/cache.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/niit_01_基于SSM框架的校园出入安全管理系统的设计与实现/code/school-ui/src/plugins/download.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/niit_01_基于SSM框架的校园出入安全管理系统的设计与实现/code/school-ui/src/plugins/index.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/niit_01_基于SSM框架的校园出入安全管理系统的设计与实现/code/school-ui/src/plugins/modal.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/niit_01_基于SSM框架的校园出入安全管理系统的设计与实现/code/school-ui/src/plugins/tab.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/niit_01_基于SSM框架的校园出入安全管理系统的设计与实现/code/school-ui/src/router/index.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/niit_01_基于SSM框架的校园出入安全管理系统的设计与实现/code/school-ui/src/settings.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/niit_01_基于SSM框架的校园出入安全管理系统的设计与实现/code/school-ui/src/store/getters.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/niit_01_基于SSM框架的校园出入安全管理系统的设计与实现/code/school-ui/src/store/index.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/niit_01_基于SSM框架的校园出入安全管理系统的设计与实现/code/school-ui/src/store/modules/app.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/niit_01_基于SSM框架的校园出入安全管理系统的设计与实现/code/school-ui/src/store/modules/dict.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/niit_01_基于SSM框架的校园出入安全管理系统的设计与实现/code/school-ui/src/store/modules/permission.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/niit_01_基于SSM框架的校园出入安全管理系统的设计与实现/code/school-ui/src/store/modules/settings.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/niit_01_基于SSM框架的校园出入安全管理系统的设计与实现/code/school-ui/src/store/modules/tagsView.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/niit_01_基于SSM框架的校园出入安全管理系统的设计与实现/code/school-ui/src/store/modules/user.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/niit_01_基于SSM框架的校园出入安全管理系统的设计与实现/code/school-ui/src/utils/auth.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/niit_01_基于SSM框架的校园出入安全管理系统的设计与实现/code/school-ui/src/utils/dict/Dict.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/niit_01_基于SSM框架的校园出入安全管理系统的设计与实现/code/school-ui/src/utils/dict/DictConverter.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/niit_01_基于SSM框架的校园出入安全管理系统的设计与实现/code/school-ui/src/utils/dict/DictData.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/niit_01_基于SSM框架的校园出入安全管理系统的设计与实现/code/school-ui/src/utils/dict/DictMeta.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/niit_01_基于SSM框架的校园出入安全管理系统的设计与实现/code/school-ui/src/utils/dict/DictOptions.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/niit_01_基于SSM框架的校园出入安全管理系统的设计与实现/code/school-ui/src/utils/dict/index.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/niit_01_基于SSM框架的校园出入安全管理系统的设计与实现/code/school-ui/src/utils/errorCode.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/niit_01_基于SSM框架的校园出入安全管理系统的设计与实现/code/school-ui/src/utils/generator/config.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/niit_01_基于SSM框架的校园出入安全管理系统的设计与实现/code/school-ui/src/utils/generator/css.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/niit_01_基于SSM框架的校园出入安全管理系统的设计与实现/code/school-ui/src/utils/generator/drawingDefault.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/niit_01_基于SSM框架的校园出入安全管理系统的设计与实现/code/school-ui/src/utils/generator/html.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/niit_01_基于SSM框架的校园出入安全管理系统的设计与实现/code/school-ui/src/utils/generator/icon.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/niit_01_基于SSM框架的校园出入安全管理系统的设计与实现/code/school-ui/src/utils/generator/js.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/niit_01_基于SSM框架的校园出入安全管理系统的设计与实现/code/school-ui/src/utils/generator/render.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/niit_01_基于SSM框架的校园出入安全管理系统的设计与实现/code/school-ui/src/utils/index.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/niit_01_基于SSM框架的校园出入安全管理系统的设计与实现/code/school-ui/src/utils/jsencrypt.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/niit_01_基于SSM框架的校园出入安全管理系统的设计与实现/code/school-ui/src/utils/permission.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/niit_01_基于SSM框架的校园出入安全管理系统的设计与实现/code/school-ui/src/utils/pp.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/niit_01_基于SSM框架的校园出入安全管理系统的设计与实现/code/school-ui/src/utils/request.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/niit_01_基于SSM框架的校园出入安全管理系统的设计与实现/code/school-ui/src/utils/scroll-to.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/niit_01_基于SSM框架的校园出入安全管理系统的设计与实现/code/school-ui/src/utils/validate.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/niit_01_基于SSM框架的校园出入安全管理系统的设计与实现/code/school-ui/src/views/components/icons/element-icons.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/niit_01_基于SSM框架的校园出入安全管理系统的设计与实现/code/school-ui/src/views/components/icons/index.vue" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/niit_01_基于SSM框架的校园出入安全管理系统的设计与实现/code/school-ui/src/views/components/icons/svg-icons.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/niit_01_基于SSM框架的校园出入安全管理系统的设计与实现/code/school-ui/src/views/dashboard/BarChart.vue" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/niit_01_基于SSM框架的校园出入安全管理系统的设计与实现/code/school-ui/src/views/dashboard/LineChart.vue" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/niit_01_基于SSM框架的校园出入安全管理系统的设计与实现/code/school-ui/src/views/dashboard/PanelGroup.vue" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/niit_01_基于SSM框架的校园出入安全管理系统的设计与实现/code/school-ui/src/views/dashboard/PieChart.vue" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/niit_01_基于SSM框架的校园出入安全管理系统的设计与实现/code/school-ui/src/views/dashboard/RaddarChart.vue" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/niit_01_基于SSM框架的校园出入安全管理系统的设计与实现/code/school-ui/src/views/dashboard/mixins/resize.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/niit_01_基于SSM框架的校园出入安全管理系统的设计与实现/code/school-ui/src/views/error/401.vue" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/niit_01_基于SSM框架的校园出入安全管理系统的设计与实现/code/school-ui/src/views/error/404.vue" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/niit_01_基于SSM框架的校园出入安全管理系统的设计与实现/code/school-ui/src/views/index.vue" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/niit_01_基于SSM框架的校园出入安全管理系统的设计与实现/code/school-ui/src/views/index_v1.vue" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/niit_01_基于SSM框架的校园出入安全管理系统的设计与实现/code/school-ui/src/views/login.vue" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/niit_01_基于SSM框架的校园出入安全管理系统的设计与实现/code/school-ui/src/views/monitor/cache/index.vue" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/niit_01_基于SSM框架的校园出入安全管理系统的设计与实现/code/school-ui/src/views/monitor/cache/list.vue" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/niit_01_基于SSM框架的校园出入安全管理系统的设计与实现/code/school-ui/src/views/monitor/druid/index.vue" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/niit_01_基于SSM框架的校园出入安全管理系统的设计与实现/code/school-ui/src/views/monitor/job/index.vue" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/niit_01_基于SSM框架的校园出入安全管理系统的设计与实现/code/school-ui/src/views/monitor/job/log.vue" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/niit_01_基于SSM框架的校园出入安全管理系统的设计与实现/code/school-ui/src/views/monitor/logininfor/index.vue" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/niit_01_基于SSM框架的校园出入安全管理系统的设计与实现/code/school-ui/src/views/monitor/online/index.vue" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/niit_01_基于SSM框架的校园出入安全管理系统的设计与实现/code/school-ui/src/views/monitor/operlog/index.vue" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/niit_01_基于SSM框架的校园出入安全管理系统的设计与实现/code/school-ui/src/views/monitor/server/index.vue" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/niit_01_基于SSM框架的校园出入安全管理系统的设计与实现/code/school-ui/src/views/redirect.vue" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/niit_01_基于SSM框架的校园出入安全管理系统的设计与实现/code/school-ui/src/views/register.vue" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/niit_01_基于SSM框架的校园出入安全管理系统的设计与实现/code/school-ui/src/views/system/config/index.vue" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/niit_01_基于SSM框架的校园出入安全管理系统的设计与实现/code/school-ui/src/views/system/dept/index.vue" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/niit_01_基于SSM框架的校园出入安全管理系统的设计与实现/code/school-ui/src/views/system/dict/data.vue" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/niit_01_基于SSM框架的校园出入安全管理系统的设计与实现/code/school-ui/src/views/system/dict/index.vue" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/niit_01_基于SSM框架的校园出入安全管理系统的设计与实现/code/school-ui/src/views/system/menu/index.vue" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/niit_01_基于SSM框架的校园出入安全管理系统的设计与实现/code/school-ui/src/views/system/notice/index.vue" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/niit_01_基于SSM框架的校园出入安全管理系统的设计与实现/code/school-ui/src/views/system/post/index.vue" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/niit_01_基于SSM框架的校园出入安全管理系统的设计与实现/code/school-ui/src/views/system/role/authUser.vue" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/niit_01_基于SSM框架的校园出入安全管理系统的设计与实现/code/school-ui/src/views/system/role/index.vue" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/niit_01_基于SSM框架的校园出入安全管理系统的设计与实现/code/school-ui/src/views/system/role/selectUser.vue" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/niit_01_基于SSM框架的校园出入安全管理系统的设计与实现/code/school-ui/src/views/system/user/authRole.vue" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/niit_01_基于SSM框架的校园出入安全管理系统的设计与实现/code/school-ui/src/views/system/user/index.vue" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/niit_01_基于SSM框架的校园出入安全管理系统的设计与实现/code/school-ui/src/views/system/user/profile/index.vue" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/niit_01_基于SSM框架的校园出入安全管理系统的设计与实现/code/school-ui/src/views/system/user/profile/resetPwd.vue" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/niit_01_基于SSM框架的校园出入安全管理系统的设计与实现/code/school-ui/src/views/system/user/profile/userAvatar.vue" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/niit_01_基于SSM框架的校园出入安全管理系统的设计与实现/code/school-ui/src/views/system/user/profile/userInfo.vue" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/niit_01_基于SSM框架的校园出入安全管理系统的设计与实现/code/school-ui/src/views/tool/build/CodeTypeDialog.vue" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/niit_01_基于SSM框架的校园出入安全管理系统的设计与实现/code/school-ui/src/views/tool/build/DraggableItem.vue" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/niit_01_基于SSM框架的校园出入安全管理系统的设计与实现/code/school-ui/src/views/tool/build/IconsDialog.vue" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/niit_01_基于SSM框架的校园出入安全管理系统的设计与实现/code/school-ui/src/views/tool/build/RightPanel.vue" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/niit_01_基于SSM框架的校园出入安全管理系统的设计与实现/code/school-ui/src/views/tool/build/TreeNodeDialog.vue" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/niit_01_基于SSM框架的校园出入安全管理系统的设计与实现/code/school-ui/src/views/tool/build/index.vue" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/niit_01_基于SSM框架的校园出入安全管理系统的设计与实现/code/school-ui/src/views/tool/gen/basicInfoForm.vue" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/niit_01_基于SSM框架的校园出入安全管理系统的设计与实现/code/school-ui/src/views/tool/gen/editTable.vue" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/niit_01_基于SSM框架的校园出入安全管理系统的设计与实现/code/school-ui/src/views/tool/gen/genInfoForm.vue" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/niit_01_基于SSM框架的校园出入安全管理系统的设计与实现/code/school-ui/src/views/tool/gen/importTable.vue" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/niit_01_基于SSM框架的校园出入安全管理系统的设计与实现/code/school-ui/src/views/tool/gen/index.vue" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/niit_01_基于SSM框架的校园出入安全管理系统的设计与实现/code/school-ui/src/views/tool/swagger/index.vue" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/niit_01_基于SSM框架的校园出入安全管理系统的设计与实现/code/school-ui/vue.config.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/niit_01_基于SSM框架的校园出入安全管理系统的设计与实现/code/school/D:/school/uploadPath/avatar/2023/12/07/blob_20231207185212A001.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/niit_01_基于SSM框架的校园出入安全管理系统的设计与实现/code/school/LICENSE" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/niit_01_基于SSM框架的校园出入安全管理系统的设计与实现/code/school/bin/clean.bat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/niit_01_基于SSM框架的校园出入安全管理系统的设计与实现/code/school/bin/package.bat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/niit_01_基于SSM框架的校园出入安全管理系统的设计与实现/code/school/bin/run.bat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/niit_01_基于SSM框架的校园出入安全管理系统的设计与实现/code/school/doc/若依环境使用手册.docx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/niit_01_基于SSM框架的校园出入安全管理系统的设计与实现/code/school/pom.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/niit_01_基于SSM框架的校园出入安全管理系统的设计与实现/code/school/ry.bat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/niit_01_基于SSM框架的校园出入安全管理系统的设计与实现/code/school/ry.sh" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/niit_01_基于SSM框架的校园出入安全管理系统的设计与实现/code/school/school-admin/pom.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/niit_01_基于SSM框架的校园出入安全管理系统的设计与实现/code/school/school-admin/src/main/java/com/school/SchoolApplication.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/niit_01_基于SSM框架的校园出入安全管理系统的设计与实现/code/school/school-admin/src/main/java/com/school/SchoolServletInitializer.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/niit_01_基于SSM框架的校园出入安全管理系统的设计与实现/code/school/school-admin/src/main/java/com/school/web/controller/common/CaptchaController.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/niit_01_基于SSM框架的校园出入安全管理系统的设计与实现/code/school/school-admin/src/main/java/com/school/web/controller/common/CommonController.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/niit_01_基于SSM框架的校园出入安全管理系统的设计与实现/code/school/school-admin/src/main/java/com/school/web/controller/monitor/CacheController.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/niit_01_基于SSM框架的校园出入安全管理系统的设计与实现/code/school/school-admin/src/main/java/com/school/web/controller/monitor/ServerController.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/niit_01_基于SSM框架的校园出入安全管理系统的设计与实现/code/school/school-admin/src/main/java/com/school/web/controller/monitor/SysLogininforController.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/niit_01_基于SSM框架的校园出入安全管理系统的设计与实现/code/school/school-admin/src/main/java/com/school/web/controller/monitor/SysOperlogController.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/niit_01_基于SSM框架的校园出入安全管理系统的设计与实现/code/school/school-admin/src/main/java/com/school/web/controller/monitor/SysUserOnlineController.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/niit_01_基于SSM框架的校园出入安全管理系统的设计与实现/code/school/school-admin/src/main/java/com/school/web/controller/system/SysConfigController.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/niit_01_基于SSM框架的校园出入安全管理系统的设计与实现/code/school/school-admin/src/main/java/com/school/web/controller/system/SysDeptController.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/niit_01_基于SSM框架的校园出入安全管理系统的设计与实现/code/school/school-admin/src/main/java/com/school/web/controller/system/SysDictDataController.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/niit_01_基于SSM框架的校园出入安全管理系统的设计与实现/code/school/school-admin/src/main/java/com/school/web/controller/system/SysDictTypeController.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/niit_01_基于SSM框架的校园出入安全管理系统的设计与实现/code/school/school-admin/src/main/java/com/school/web/controller/system/SysIndexController.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/niit_01_基于SSM框架的校园出入安全管理系统的设计与实现/code/school/school-admin/src/main/java/com/school/web/controller/system/SysLoginController.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/niit_01_基于SSM框架的校园出入安全管理系统的设计与实现/code/school/school-admin/src/main/java/com/school/web/controller/system/SysMenuController.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/niit_01_基于SSM框架的校园出入安全管理系统的设计与实现/code/school/school-admin/src/main/java/com/school/web/controller/system/SysNoticeController.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/niit_01_基于SSM框架的校园出入安全管理系统的设计与实现/code/school/school-admin/src/main/java/com/school/web/controller/system/SysPostController.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/niit_01_基于SSM框架的校园出入安全管理系统的设计与实现/code/school/school-admin/src/main/java/com/school/web/controller/system/SysProfileController.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/niit_01_基于SSM框架的校园出入安全管理系统的设计与实现/code/school/school-admin/src/main/java/com/school/web/controller/system/SysRegisterController.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/niit_01_基于SSM框架的校园出入安全管理系统的设计与实现/code/school/school-admin/src/main/java/com/school/web/controller/system/SysRoleController.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/niit_01_基于SSM框架的校园出入安全管理系统的设计与实现/code/school/school-admin/src/main/java/com/school/web/controller/system/SysUserController.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/niit_01_基于SSM框架的校园出入安全管理系统的设计与实现/code/school/school-admin/src/main/java/com/school/web/controller/tool/TestController.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/niit_01_基于SSM框架的校园出入安全管理系统的设计与实现/code/school/school-admin/src/main/java/com/school/web/core/config/SwaggerConfig.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/niit_01_基于SSM框架的校园出入安全管理系统的设计与实现/code/school/school-admin/src/main/resources/META-INF/spring-devtools.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/niit_01_基于SSM框架的校园出入安全管理系统的设计与实现/code/school/school-admin/src/main/resources/application-druid.yml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/niit_01_基于SSM框架的校园出入安全管理系统的设计与实现/code/school/school-admin/src/main/resources/application.yml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/niit_01_基于SSM框架的校园出入安全管理系统的设计与实现/code/school/school-admin/src/main/resources/banner.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/niit_01_基于SSM框架的校园出入安全管理系统的设计与实现/code/school/school-admin/src/main/resources/i18n/messages.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/niit_01_基于SSM框架的校园出入安全管理系统的设计与实现/code/school/school-admin/src/main/resources/logback.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/niit_01_基于SSM框架的校园出入安全管理系统的设计与实现/code/school/school-admin/src/main/resources/mybatis/mybatis-config.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/niit_01_基于SSM框架的校园出入安全管理系统的设计与实现/code/school/school-common/pom.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/niit_01_基于SSM框架的校园出入安全管理系统的设计与实现/code/school/school-common/src/main/java/com/school/common/annotation/Anonymous.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/niit_01_基于SSM框架的校园出入安全管理系统的设计与实现/code/school/school-common/src/main/java/com/school/common/annotation/DataScope.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/niit_01_基于SSM框架的校园出入安全管理系统的设计与实现/code/school/school-common/src/main/java/com/school/common/annotation/DataSource.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/niit_01_基于SSM框架的校园出入安全管理系统的设计与实现/code/school/school-common/src/main/java/com/school/common/annotation/Excel.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/niit_01_基于SSM框架的校园出入安全管理系统的设计与实现/code/school/school-common/src/main/java/com/school/common/annotation/Excels.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/niit_01_基于SSM框架的校园出入安全管理系统的设计与实现/code/school/school-common/src/main/java/com/school/common/annotation/Log.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/niit_01_基于SSM框架的校园出入安全管理系统的设计与实现/code/school/school-common/src/main/java/com/school/common/annotation/RateLimiter.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/niit_01_基于SSM框架的校园出入安全管理系统的设计与实现/code/school/school-common/src/main/java/com/school/common/annotation/RepeatSubmit.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/niit_01_基于SSM框架的校园出入安全管理系统的设计与实现/code/school/school-common/src/main/java/com/school/common/config/SchoolConfig.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/niit_01_基于SSM框架的校园出入安全管理系统的设计与实现/code/school/school-common/src/main/java/com/school/common/constant/CacheConstants.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/niit_01_基于SSM框架的校园出入安全管理系统的设计与实现/code/school/school-common/src/main/java/com/school/common/constant/Constants.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/niit_01_基于SSM框架的校园出入安全管理系统的设计与实现/code/school/school-common/src/main/java/com/school/common/constant/GenConstants.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/niit_01_基于SSM框架的校园出入安全管理系统的设计与实现/code/school/school-common/src/main/java/com/school/common/constant/HttpStatus.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/niit_01_基于SSM框架的校园出入安全管理系统的设计与实现/code/school/school-common/src/main/java/com/school/common/constant/ScheduleConstants.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/niit_01_基于SSM框架的校园出入安全管理系统的设计与实现/code/school/school-common/src/main/java/com/school/common/constant/UserConstants.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/niit_01_基于SSM框架的校园出入安全管理系统的设计与实现/code/school/school-common/src/main/java/com/school/common/core/controller/BaseController.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/niit_01_基于SSM框架的校园出入安全管理系统的设计与实现/code/school/school-common/src/main/java/com/school/common/core/domain/AjaxResult.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/niit_01_基于SSM框架的校园出入安全管理系统的设计与实现/code/school/school-common/src/main/java/com/school/common/core/domain/BaseEntity.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/niit_01_基于SSM框架的校园出入安全管理系统的设计与实现/code/school/school-common/src/main/java/com/school/common/core/domain/R.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/niit_01_基于SSM框架的校园出入安全管理系统的设计与实现/code/school/school-common/src/main/java/com/school/common/core/domain/TreeEntity.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/niit_01_基于SSM框架的校园出入安全管理系统的设计与实现/code/school/school-common/src/main/java/com/school/common/core/domain/TreeSelect.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/niit_01_基于SSM框架的校园出入安全管理系统的设计与实现/code/school/school-common/src/main/java/com/school/common/core/domain/entity/SysDept.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/niit_01_基于SSM框架的校园出入安全管理系统的设计与实现/code/school/school-common/src/main/java/com/school/common/core/domain/entity/SysDictData.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/niit_01_基于SSM框架的校园出入安全管理系统的设计与实现/code/school/school-common/src/main/java/com/school/common/core/domain/entity/SysDictType.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/niit_01_基于SSM框架的校园出入安全管理系统的设计与实现/code/school/school-common/src/main/java/com/school/common/core/domain/entity/SysMenu.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/niit_01_基于SSM框架的校园出入安全管理系统的设计与实现/code/school/school-common/src/main/java/com/school/common/core/domain/entity/SysRole.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/niit_01_基于SSM框架的校园出入安全管理系统的设计与实现/code/school/school-common/src/main/java/com/school/common/core/domain/entity/SysUser.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/niit_01_基于SSM框架的校园出入安全管理系统的设计与实现/code/school/school-common/src/main/java/com/school/common/core/domain/model/LoginBody.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/niit_01_基于SSM框架的校园出入安全管理系统的设计与实现/code/school/school-common/src/main/java/com/school/common/core/domain/model/LoginUser.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/niit_01_基于SSM框架的校园出入安全管理系统的设计与实现/code/school/school-common/src/main/java/com/school/common/core/domain/model/RegisterBody.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/niit_01_基于SSM框架的校园出入安全管理系统的设计与实现/code/school/school-common/src/main/java/com/school/common/core/page/PageDomain.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/niit_01_基于SSM框架的校园出入安全管理系统的设计与实现/code/school/school-common/src/main/java/com/school/common/core/page/TableDataInfo.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/niit_01_基于SSM框架的校园出入安全管理系统的设计与实现/code/school/school-common/src/main/java/com/school/common/core/page/TableSupport.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/niit_01_基于SSM框架的校园出入安全管理系统的设计与实现/code/school/school-common/src/main/java/com/school/common/core/redis/RedisCache.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/niit_01_基于SSM框架的校园出入安全管理系统的设计与实现/code/school/school-common/src/main/java/com/school/common/core/text/CharsetKit.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/niit_01_基于SSM框架的校园出入安全管理系统的设计与实现/code/school/school-common/src/main/java/com/school/common/core/text/Convert.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/niit_01_基于SSM框架的校园出入安全管理系统的设计与实现/code/school/school-common/src/main/java/com/school/common/core/text/StrFormatter.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/niit_01_基于SSM框架的校园出入安全管理系统的设计与实现/code/school/school-common/src/main/java/com/school/common/enums/BusinessStatus.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/niit_01_基于SSM框架的校园出入安全管理系统的设计与实现/code/school/school-common/src/main/java/com/school/common/enums/BusinessType.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/niit_01_基于SSM框架的校园出入安全管理系统的设计与实现/code/school/school-common/src/main/java/com/school/common/enums/DataSourceType.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/niit_01_基于SSM框架的校园出入安全管理系统的设计与实现/code/school/school-common/src/main/java/com/school/common/enums/HttpMethod.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/niit_01_基于SSM框架的校园出入安全管理系统的设计与实现/code/school/school-common/src/main/java/com/school/common/enums/LimitType.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/niit_01_基于SSM框架的校园出入安全管理系统的设计与实现/code/school/school-common/src/main/java/com/school/common/enums/OperatorType.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/niit_01_基于SSM框架的校园出入安全管理系统的设计与实现/code/school/school-common/src/main/java/com/school/common/enums/UserStatus.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/niit_01_基于SSM框架的校园出入安全管理系统的设计与实现/code/school/school-common/src/main/java/com/school/common/exception/DemoModeException.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/niit_01_基于SSM框架的校园出入安全管理系统的设计与实现/code/school/school-common/src/main/java/com/school/common/exception/GlobalException.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/niit_01_基于SSM框架的校园出入安全管理系统的设计与实现/code/school/school-common/src/main/java/com/school/common/exception/ServiceException.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/niit_01_基于SSM框架的校园出入安全管理系统的设计与实现/code/school/school-common/src/main/java/com/school/common/exception/UtilException.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/niit_01_基于SSM框架的校园出入安全管理系统的设计与实现/code/school/school-common/src/main/java/com/school/common/exception/base/BaseException.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/niit_01_基于SSM框架的校园出入安全管理系统的设计与实现/code/school/school-common/src/main/java/com/school/common/exception/file/FileException.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/niit_01_基于SSM框架的校园出入安全管理系统的设计与实现/code/school/school-common/src/main/java/com/school/common/exception/file/FileNameLengthLimitExceededException.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/niit_01_基于SSM框架的校园出入安全管理系统的设计与实现/code/school/school-common/src/main/java/com/school/common/exception/file/FileSizeLimitExceededException.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/niit_01_基于SSM框架的校园出入安全管理系统的设计与实现/code/school/school-common/src/main/java/com/school/common/exception/file/FileUploadException.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/niit_01_基于SSM框架的校园出入安全管理系统的设计与实现/code/school/school-common/src/main/java/com/school/common/exception/file/InvalidExtensionException.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/niit_01_基于SSM框架的校园出入安全管理系统的设计与实现/code/school/school-common/src/main/java/com/school/common/exception/job/TaskException.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/niit_01_基于SSM框架的校园出入安全管理系统的设计与实现/code/school/school-common/src/main/java/com/school/common/exception/user/BlackListException.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/niit_01_基于SSM框架的校园出入安全管理系统的设计与实现/code/school/school-common/src/main/java/com/school/common/exception/user/CaptchaException.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/niit_01_基于SSM框架的校园出入安全管理系统的设计与实现/code/school/school-common/src/main/java/com/school/common/exception/user/CaptchaExpireException.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/niit_01_基于SSM框架的校园出入安全管理系统的设计与实现/code/school/school-common/src/main/java/com/school/common/exception/user/UserException.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/niit_01_基于SSM框架的校园出入安全管理系统的设计与实现/code/school/school-common/src/main/java/com/school/common/exception/user/UserNotExistsException.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/niit_01_基于SSM框架的校园出入安全管理系统的设计与实现/code/school/school-common/src/main/java/com/school/common/exception/user/UserPasswordNotMatchException.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/niit_01_基于SSM框架的校园出入安全管理系统的设计与实现/code/school/school-common/src/main/java/com/school/common/exception/user/UserPasswordRetryLimitExceedException.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/niit_01_基于SSM框架的校园出入安全管理系统的设计与实现/code/school/school-common/src/main/java/com/school/common/filter/PropertyPreExcludeFilter.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/niit_01_基于SSM框架的校园出入安全管理系统的设计与实现/code/school/school-common/src/main/java/com/school/common/filter/RepeatableFilter.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/niit_01_基于SSM框架的校园出入安全管理系统的设计与实现/code/school/school-common/src/main/java/com/school/common/filter/RepeatedlyRequestWrapper.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/niit_01_基于SSM框架的校园出入安全管理系统的设计与实现/code/school/school-common/src/main/java/com/school/common/filter/XssFilter.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/niit_01_基于SSM框架的校园出入安全管理系统的设计与实现/code/school/school-common/src/main/java/com/school/common/filter/XssHttpServletRequestWrapper.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/niit_01_基于SSM框架的校园出入安全管理系统的设计与实现/code/school/school-common/src/main/java/com/school/common/utils/Arith.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/niit_01_基于SSM框架的校园出入安全管理系统的设计与实现/code/school/school-common/src/main/java/com/school/common/utils/DateUtils.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/niit_01_基于SSM框架的校园出入安全管理系统的设计与实现/code/school/school-common/src/main/java/com/school/common/utils/DictUtils.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/niit_01_基于SSM框架的校园出入安全管理系统的设计与实现/code/school/school-common/src/main/java/com/school/common/utils/ExceptionUtil.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/niit_01_基于SSM框架的校园出入安全管理系统的设计与实现/code/school/school-common/src/main/java/com/school/common/utils/LogUtils.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/niit_01_基于SSM框架的校园出入安全管理系统的设计与实现/code/school/school-common/src/main/java/com/school/common/utils/MessageUtils.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/niit_01_基于SSM框架的校园出入安全管理系统的设计与实现/code/school/school-common/src/main/java/com/school/common/utils/PageUtils.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/niit_01_基于SSM框架的校园出入安全管理系统的设计与实现/code/school/school-common/src/main/java/com/school/common/utils/SecurityUtils.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/niit_01_基于SSM框架的校园出入安全管理系统的设计与实现/code/school/school-common/src/main/java/com/school/common/utils/ServletUtils.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/niit_01_基于SSM框架的校园出入安全管理系统的设计与实现/code/school/school-common/src/main/java/com/school/common/utils/StringUtils.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/niit_01_基于SSM框架的校园出入安全管理系统的设计与实现/code/school/school-common/src/main/java/com/school/common/utils/Threads.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/niit_01_基于SSM框架的校园出入安全管理系统的设计与实现/code/school/school-common/src/main/java/com/school/common/utils/bean/BeanUtils.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/niit_01_基于SSM框架的校园出入安全管理系统的设计与实现/code/school/school-common/src/main/java/com/school/common/utils/bean/BeanValidators.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/niit_01_基于SSM框架的校园出入安全管理系统的设计与实现/code/school/school-common/src/main/java/com/school/common/utils/file/FileTypeUtils.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/niit_01_基于SSM框架的校园出入安全管理系统的设计与实现/code/school/school-common/src/main/java/com/school/common/utils/file/FileUploadUtils.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/niit_01_基于SSM框架的校园出入安全管理系统的设计与实现/code/school/school-common/src/main/java/com/school/common/utils/file/FileUtils.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/niit_01_基于SSM框架的校园出入安全管理系统的设计与实现/code/school/school-common/src/main/java/com/school/common/utils/file/ImageUtils.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/niit_01_基于SSM框架的校园出入安全管理系统的设计与实现/code/school/school-common/src/main/java/com/school/common/utils/file/MimeTypeUtils.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/niit_01_基于SSM框架的校园出入安全管理系统的设计与实现/code/school/school-common/src/main/java/com/school/common/utils/html/EscapeUtil.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/niit_01_基于SSM框架的校园出入安全管理系统的设计与实现/code/school/school-common/src/main/java/com/school/common/utils/html/HTMLFilter.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/niit_01_基于SSM框架的校园出入安全管理系统的设计与实现/code/school/school-common/src/main/java/com/school/common/utils/http/HttpHelper.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/niit_01_基于SSM框架的校园出入安全管理系统的设计与实现/code/school/school-common/src/main/java/com/school/common/utils/http/HttpUtils.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/niit_01_基于SSM框架的校园出入安全管理系统的设计与实现/code/school/school-common/src/main/java/com/school/common/utils/ip/AddressUtils.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/niit_01_基于SSM框架的校园出入安全管理系统的设计与实现/code/school/school-common/src/main/java/com/school/common/utils/ip/IpUtils.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/niit_01_基于SSM框架的校园出入安全管理系统的设计与实现/code/school/school-common/src/main/java/com/school/common/utils/poi/ExcelHandlerAdapter.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/niit_01_基于SSM框架的校园出入安全管理系统的设计与实现/code/school/school-common/src/main/java/com/school/common/utils/poi/ExcelUtil.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/niit_01_基于SSM框架的校园出入安全管理系统的设计与实现/code/school/school-common/src/main/java/com/school/common/utils/reflect/ReflectUtils.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/niit_01_基于SSM框架的校园出入安全管理系统的设计与实现/code/school/school-common/src/main/java/com/school/common/utils/sign/Base64.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/niit_01_基于SSM框架的校园出入安全管理系统的设计与实现/code/school/school-common/src/main/java/com/school/common/utils/sign/Md5Utils.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/niit_01_基于SSM框架的校园出入安全管理系统的设计与实现/code/school/school-common/src/main/java/com/school/common/utils/spring/SpringUtils.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/niit_01_基于SSM框架的校园出入安全管理系统的设计与实现/code/school/school-common/src/main/java/com/school/common/utils/sql/SqlUtil.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/niit_01_基于SSM框架的校园出入安全管理系统的设计与实现/code/school/school-common/src/main/java/com/school/common/utils/uuid/IdUtils.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/niit_01_基于SSM框架的校园出入安全管理系统的设计与实现/code/school/school-common/src/main/java/com/school/common/utils/uuid/Seq.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/niit_01_基于SSM框架的校园出入安全管理系统的设计与实现/code/school/school-common/src/main/java/com/school/common/utils/uuid/UUID.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/niit_01_基于SSM框架的校园出入安全管理系统的设计与实现/code/school/school-common/src/main/java/com/school/common/xss/Xss.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/niit_01_基于SSM框架的校园出入安全管理系统的设计与实现/code/school/school-common/src/main/java/com/school/common/xss/XssValidator.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/niit_01_基于SSM框架的校园出入安全管理系统的设计与实现/code/school/school-framework/pom.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/niit_01_基于SSM框架的校园出入安全管理系统的设计与实现/code/school/school-framework/src/main/java/com/school/framework/aspectj/DataScopeAspect.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/niit_01_基于SSM框架的校园出入安全管理系统的设计与实现/code/school/school-framework/src/main/java/com/school/framework/aspectj/DataSourceAspect.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/niit_01_基于SSM框架的校园出入安全管理系统的设计与实现/code/school/school-framework/src/main/java/com/school/framework/aspectj/LogAspect.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/niit_01_基于SSM框架的校园出入安全管理系统的设计与实现/code/school/school-framework/src/main/java/com/school/framework/aspectj/RateLimiterAspect.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/niit_01_基于SSM框架的校园出入安全管理系统的设计与实现/code/school/school-framework/src/main/java/com/school/framework/config/ApplicationConfig.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/niit_01_基于SSM框架的校园出入安全管理系统的设计与实现/code/school/school-framework/src/main/java/com/school/framework/config/CaptchaConfig.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/niit_01_基于SSM框架的校园出入安全管理系统的设计与实现/code/school/school-framework/src/main/java/com/school/framework/config/DruidConfig.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/niit_01_基于SSM框架的校园出入安全管理系统的设计与实现/code/school/school-framework/src/main/java/com/school/framework/config/FastJson2JsonRedisSerializer.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/niit_01_基于SSM框架的校园出入安全管理系统的设计与实现/code/school/school-framework/src/main/java/com/school/framework/config/FilterConfig.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/niit_01_基于SSM框架的校园出入安全管理系统的设计与实现/code/school/school-framework/src/main/java/com/school/framework/config/KaptchaTextCreator.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/niit_01_基于SSM框架的校园出入安全管理系统的设计与实现/code/school/school-framework/src/main/java/com/school/framework/config/MyBatisConfig.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/niit_01_基于SSM框架的校园出入安全管理系统的设计与实现/code/school/school-framework/src/main/java/com/school/framework/config/RedisConfig.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/niit_01_基于SSM框架的校园出入安全管理系统的设计与实现/code/school/school-framework/src/main/java/com/school/framework/config/ResourcesConfig.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/niit_01_基于SSM框架的校园出入安全管理系统的设计与实现/code/school/school-framework/src/main/java/com/school/framework/config/SecurityConfig.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/niit_01_基于SSM框架的校园出入安全管理系统的设计与实现/code/school/school-framework/src/main/java/com/school/framework/config/ServerConfig.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/niit_01_基于SSM框架的校园出入安全管理系统的设计与实现/code/school/school-framework/src/main/java/com/school/framework/config/ThreadPoolConfig.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/niit_01_基于SSM框架的校园出入安全管理系统的设计与实现/code/school/school-framework/src/main/java/com/school/framework/config/properties/DruidProperties.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/niit_01_基于SSM框架的校园出入安全管理系统的设计与实现/code/school/school-framework/src/main/java/com/school/framework/config/properties/PermitAllUrlProperties.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/niit_01_基于SSM框架的校园出入安全管理系统的设计与实现/code/school/school-framework/src/main/java/com/school/framework/datasource/DynamicDataSource.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/niit_01_基于SSM框架的校园出入安全管理系统的设计与实现/code/school/school-framework/src/main/java/com/school/framework/datasource/DynamicDataSourceContextHolder.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/niit_01_基于SSM框架的校园出入安全管理系统的设计与实现/code/school/school-framework/src/main/java/com/school/framework/interceptor/RepeatSubmitInterceptor.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/niit_01_基于SSM框架的校园出入安全管理系统的设计与实现/code/school/school-framework/src/main/java/com/school/framework/interceptor/impl/SameUrlDataInterceptor.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/niit_01_基于SSM框架的校园出入安全管理系统的设计与实现/code/school/school-framework/src/main/java/com/school/framework/manager/AsyncManager.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/niit_01_基于SSM框架的校园出入安全管理系统的设计与实现/code/school/school-framework/src/main/java/com/school/framework/manager/ShutdownManager.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/niit_01_基于SSM框架的校园出入安全管理系统的设计与实现/code/school/school-framework/src/main/java/com/school/framework/manager/factory/AsyncFactory.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/niit_01_基于SSM框架的校园出入安全管理系统的设计与实现/code/school/school-framework/src/main/java/com/school/framework/security/context/AuthenticationContextHolder.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/niit_01_基于SSM框架的校园出入安全管理系统的设计与实现/code/school/school-framework/src/main/java/com/school/framework/security/context/PermissionContextHolder.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/niit_01_基于SSM框架的校园出入安全管理系统的设计与实现/code/school/school-framework/src/main/java/com/school/framework/security/filter/JwtAuthenticationTokenFilter.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/niit_01_基于SSM框架的校园出入安全管理系统的设计与实现/code/school/school-framework/src/main/java/com/school/framework/security/handle/AuthenticationEntryPointImpl.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/niit_01_基于SSM框架的校园出入安全管理系统的设计与实现/code/school/school-framework/src/main/java/com/school/framework/security/handle/LogoutSuccessHandlerImpl.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/niit_01_基于SSM框架的校园出入安全管理系统的设计与实现/code/school/school-framework/src/main/java/com/school/framework/web/domain/Server.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/niit_01_基于SSM框架的校园出入安全管理系统的设计与实现/code/school/school-framework/src/main/java/com/school/framework/web/domain/server/Cpu.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/niit_01_基于SSM框架的校园出入安全管理系统的设计与实现/code/school/school-framework/src/main/java/com/school/framework/web/domain/server/Jvm.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/niit_01_基于SSM框架的校园出入安全管理系统的设计与实现/code/school/school-framework/src/main/java/com/school/framework/web/domain/server/Mem.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/niit_01_基于SSM框架的校园出入安全管理系统的设计与实现/code/school/school-framework/src/main/java/com/school/framework/web/domain/server/Sys.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/niit_01_基于SSM框架的校园出入安全管理系统的设计与实现/code/school/school-framework/src/main/java/com/school/framework/web/domain/server/SysFile.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/niit_01_基于SSM框架的校园出入安全管理系统的设计与实现/code/school/school-framework/src/main/java/com/school/framework/web/exception/GlobalExceptionHandler.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/niit_01_基于SSM框架的校园出入安全管理系统的设计与实现/code/school/school-framework/src/main/java/com/school/framework/web/service/PermissionService.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/niit_01_基于SSM框架的校园出入安全管理系统的设计与实现/code/school/school-framework/src/main/java/com/school/framework/web/service/SysLoginService.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/niit_01_基于SSM框架的校园出入安全管理系统的设计与实现/code/school/school-framework/src/main/java/com/school/framework/web/service/SysPasswordService.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/niit_01_基于SSM框架的校园出入安全管理系统的设计与实现/code/school/school-framework/src/main/java/com/school/framework/web/service/SysPermissionService.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/niit_01_基于SSM框架的校园出入安全管理系统的设计与实现/code/school/school-framework/src/main/java/com/school/framework/web/service/SysRegisterService.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/niit_01_基于SSM框架的校园出入安全管理系统的设计与实现/code/school/school-framework/src/main/java/com/school/framework/web/service/TokenService.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/niit_01_基于SSM框架的校园出入安全管理系统的设计与实现/code/school/school-framework/src/main/java/com/school/framework/web/service/UserDetailsServiceImpl.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/niit_01_基于SSM框架的校园出入安全管理系统的设计与实现/code/school/school-generator/pom.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/niit_01_基于SSM框架的校园出入安全管理系统的设计与实现/code/school/school-generator/src/main/java/com/school/generator/config/GenConfig.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/niit_01_基于SSM框架的校园出入安全管理系统的设计与实现/code/school/school-generator/src/main/java/com/school/generator/controller/GenController.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/niit_01_基于SSM框架的校园出入安全管理系统的设计与实现/code/school/school-generator/src/main/java/com/school/generator/domain/GenTable.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/niit_01_基于SSM框架的校园出入安全管理系统的设计与实现/code/school/school-generator/src/main/java/com/school/generator/domain/GenTableColumn.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/niit_01_基于SSM框架的校园出入安全管理系统的设计与实现/code/school/school-generator/src/main/java/com/school/generator/mapper/GenTableColumnMapper.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/niit_01_基于SSM框架的校园出入安全管理系统的设计与实现/code/school/school-generator/src/main/java/com/school/generator/mapper/GenTableMapper.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/niit_01_基于SSM框架的校园出入安全管理系统的设计与实现/code/school/school-generator/src/main/java/com/school/generator/service/GenTableColumnServiceImpl.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/niit_01_基于SSM框架的校园出入安全管理系统的设计与实现/code/school/school-generator/src/main/java/com/school/generator/service/GenTableServiceImpl.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/niit_01_基于SSM框架的校园出入安全管理系统的设计与实现/code/school/school-generator/src/main/java/com/school/generator/service/IGenTableColumnService.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/niit_01_基于SSM框架的校园出入安全管理系统的设计与实现/code/school/school-generator/src/main/java/com/school/generator/service/IGenTableService.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/niit_01_基于SSM框架的校园出入安全管理系统的设计与实现/code/school/school-generator/src/main/java/com/school/generator/util/GenUtils.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/niit_01_基于SSM框架的校园出入安全管理系统的设计与实现/code/school/school-generator/src/main/java/com/school/generator/util/VelocityInitializer.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/niit_01_基于SSM框架的校园出入安全管理系统的设计与实现/code/school/school-generator/src/main/java/com/school/generator/util/VelocityUtils.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/niit_01_基于SSM框架的校园出入安全管理系统的设计与实现/code/school/school-generator/src/main/resources/generator.yml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/niit_01_基于SSM框架的校园出入安全管理系统的设计与实现/code/school/school-generator/src/main/resources/mapper/generator/GenTableColumnMapper.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/niit_01_基于SSM框架的校园出入安全管理系统的设计与实现/code/school/school-generator/src/main/resources/mapper/generator/GenTableMapper.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/niit_01_基于SSM框架的校园出入安全管理系统的设计与实现/code/school/school-generator/src/main/resources/vm/java/controller.java.vm" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/niit_01_基于SSM框架的校园出入安全管理系统的设计与实现/code/school/school-generator/src/main/resources/vm/java/domain.java.vm" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/niit_01_基于SSM框架的校园出入安全管理系统的设计与实现/code/school/school-generator/src/main/resources/vm/java/mapper.java.vm" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/niit_01_基于SSM框架的校园出入安全管理系统的设计与实现/code/school/school-generator/src/main/resources/vm/java/service.java.vm" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/niit_01_基于SSM框架的校园出入安全管理系统的设计与实现/code/school/school-generator/src/main/resources/vm/java/serviceImpl.java.vm" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/niit_01_基于SSM框架的校园出入安全管理系统的设计与实现/code/school/school-generator/src/main/resources/vm/java/sub-domain.java.vm" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/niit_01_基于SSM框架的校园出入安全管理系统的设计与实现/code/school/school-generator/src/main/resources/vm/js/api.js.vm" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/niit_01_基于SSM框架的校园出入安全管理系统的设计与实现/code/school/school-generator/src/main/resources/vm/sql/sql.vm" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/niit_01_基于SSM框架的校园出入安全管理系统的设计与实现/code/school/school-generator/src/main/resources/vm/vue/index-tree.vue.vm" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/niit_01_基于SSM框架的校园出入安全管理系统的设计与实现/code/school/school-generator/src/main/resources/vm/vue/index.vue.vm" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/niit_01_基于SSM框架的校园出入安全管理系统的设计与实现/code/school/school-generator/src/main/resources/vm/xml/mapper.xml.vm" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/niit_01_基于SSM框架的校园出入安全管理系统的设计与实现/code/school/school-quartz/pom.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/niit_01_基于SSM框架的校园出入安全管理系统的设计与实现/code/school/school-quartz/src/main/java/com/school/quartz/config/ScheduleConfig.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/niit_01_基于SSM框架的校园出入安全管理系统的设计与实现/code/school/school-quartz/src/main/java/com/school/quartz/controller/SysJobController.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/niit_01_基于SSM框架的校园出入安全管理系统的设计与实现/code/school/school-quartz/src/main/java/com/school/quartz/controller/SysJobLogController.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/niit_01_基于SSM框架的校园出入安全管理系统的设计与实现/code/school/school-quartz/src/main/java/com/school/quartz/domain/SysJob.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/niit_01_基于SSM框架的校园出入安全管理系统的设计与实现/code/school/school-quartz/src/main/java/com/school/quartz/domain/SysJobLog.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/niit_01_基于SSM框架的校园出入安全管理系统的设计与实现/code/school/school-quartz/src/main/java/com/school/quartz/mapper/SysJobLogMapper.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/niit_01_基于SSM框架的校园出入安全管理系统的设计与实现/code/school/school-quartz/src/main/java/com/school/quartz/mapper/SysJobMapper.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/niit_01_基于SSM框架的校园出入安全管理系统的设计与实现/code/school/school-quartz/src/main/java/com/school/quartz/service/ISysJobLogService.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/niit_01_基于SSM框架的校园出入安全管理系统的设计与实现/code/school/school-quartz/src/main/java/com/school/quartz/service/ISysJobService.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/niit_01_基于SSM框架的校园出入安全管理系统的设计与实现/code/school/school-quartz/src/main/java/com/school/quartz/service/impl/SysJobLogServiceImpl.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/niit_01_基于SSM框架的校园出入安全管理系统的设计与实现/code/school/school-quartz/src/main/java/com/school/quartz/service/impl/SysJobServiceImpl.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/niit_01_基于SSM框架的校园出入安全管理系统的设计与实现/code/school/school-quartz/src/main/java/com/school/quartz/task/RyTask.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/niit_01_基于SSM框架的校园出入安全管理系统的设计与实现/code/school/school-quartz/src/main/java/com/school/quartz/util/AbstractQuartzJob.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/niit_01_基于SSM框架的校园出入安全管理系统的设计与实现/code/school/school-quartz/src/main/java/com/school/quartz/util/CronUtils.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/niit_01_基于SSM框架的校园出入安全管理系统的设计与实现/code/school/school-quartz/src/main/java/com/school/quartz/util/JobInvokeUtil.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/niit_01_基于SSM框架的校园出入安全管理系统的设计与实现/code/school/school-quartz/src/main/java/com/school/quartz/util/QuartzDisallowConcurrentExecution.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/niit_01_基于SSM框架的校园出入安全管理系统的设计与实现/code/school/school-quartz/src/main/java/com/school/quartz/util/QuartzJobExecution.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/niit_01_基于SSM框架的校园出入安全管理系统的设计与实现/code/school/school-quartz/src/main/java/com/school/quartz/util/ScheduleUtils.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/niit_01_基于SSM框架的校园出入安全管理系统的设计与实现/code/school/school-quartz/src/main/resources/mapper/quartz/SysJobLogMapper.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/niit_01_基于SSM框架的校园出入安全管理系统的设计与实现/code/school/school-quartz/src/main/resources/mapper/quartz/SysJobMapper.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/niit_01_基于SSM框架的校园出入安全管理系统的设计与实现/code/school/school-system/pom.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/niit_01_基于SSM框架的校园出入安全管理系统的设计与实现/code/school/school-system/src/main/java/com/school/system/domain/SysCache.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/niit_01_基于SSM框架的校园出入安全管理系统的设计与实现/code/school/school-system/src/main/java/com/school/system/domain/SysConfig.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/niit_01_基于SSM框架的校园出入安全管理系统的设计与实现/code/school/school-system/src/main/java/com/school/system/domain/SysLogininfor.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/niit_01_基于SSM框架的校园出入安全管理系统的设计与实现/code/school/school-system/src/main/java/com/school/system/domain/SysNotice.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/niit_01_基于SSM框架的校园出入安全管理系统的设计与实现/code/school/school-system/src/main/java/com/school/system/domain/SysOperLog.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/niit_01_基于SSM框架的校园出入安全管理系统的设计与实现/code/school/school-system/src/main/java/com/school/system/domain/SysPost.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/niit_01_基于SSM框架的校园出入安全管理系统的设计与实现/code/school/school-system/src/main/java/com/school/system/domain/SysRoleDept.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/niit_01_基于SSM框架的校园出入安全管理系统的设计与实现/code/school/school-system/src/main/java/com/school/system/domain/SysRoleMenu.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/niit_01_基于SSM框架的校园出入安全管理系统的设计与实现/code/school/school-system/src/main/java/com/school/system/domain/SysUserOnline.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/niit_01_基于SSM框架的校园出入安全管理系统的设计与实现/code/school/school-system/src/main/java/com/school/system/domain/SysUserPost.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/niit_01_基于SSM框架的校园出入安全管理系统的设计与实现/code/school/school-system/src/main/java/com/school/system/domain/SysUserRole.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/niit_01_基于SSM框架的校园出入安全管理系统的设计与实现/code/school/school-system/src/main/java/com/school/system/domain/vo/MetaVo.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/niit_01_基于SSM框架的校园出入安全管理系统的设计与实现/code/school/school-system/src/main/java/com/school/system/domain/vo/RouterVo.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/niit_01_基于SSM框架的校园出入安全管理系统的设计与实现/code/school/school-system/src/main/java/com/school/system/mapper/SysConfigMapper.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/niit_01_基于SSM框架的校园出入安全管理系统的设计与实现/code/school/school-system/src/main/java/com/school/system/mapper/SysDeptMapper.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/niit_01_基于SSM框架的校园出入安全管理系统的设计与实现/code/school/school-system/src/main/java/com/school/system/mapper/SysDictDataMapper.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/niit_01_基于SSM框架的校园出入安全管理系统的设计与实现/code/school/school-system/src/main/java/com/school/system/mapper/SysDictTypeMapper.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/niit_01_基于SSM框架的校园出入安全管理系统的设计与实现/code/school/school-system/src/main/java/com/school/system/mapper/SysLogininforMapper.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/niit_01_基于SSM框架的校园出入安全管理系统的设计与实现/code/school/school-system/src/main/java/com/school/system/mapper/SysMenuMapper.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/niit_01_基于SSM框架的校园出入安全管理系统的设计与实现/code/school/school-system/src/main/java/com/school/system/mapper/SysNoticeMapper.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/niit_01_基于SSM框架的校园出入安全管理系统的设计与实现/code/school/school-system/src/main/java/com/school/system/mapper/SysOperLogMapper.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/niit_01_基于SSM框架的校园出入安全管理系统的设计与实现/code/school/school-system/src/main/java/com/school/system/mapper/SysPostMapper.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/niit_01_基于SSM框架的校园出入安全管理系统的设计与实现/code/school/school-system/src/main/java/com/school/system/mapper/SysRoleDeptMapper.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/niit_01_基于SSM框架的校园出入安全管理系统的设计与实现/code/school/school-system/src/main/java/com/school/system/mapper/SysRoleMapper.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/niit_01_基于SSM框架的校园出入安全管理系统的设计与实现/code/school/school-system/src/main/java/com/school/system/mapper/SysRoleMenuMapper.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/niit_01_基于SSM框架的校园出入安全管理系统的设计与实现/code/school/school-system/src/main/java/com/school/system/mapper/SysUserMapper.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/niit_01_基于SSM框架的校园出入安全管理系统的设计与实现/code/school/school-system/src/main/java/com/school/system/mapper/SysUserPostMapper.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/niit_01_基于SSM框架的校园出入安全管理系统的设计与实现/code/school/school-system/src/main/java/com/school/system/mapper/SysUserRoleMapper.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/niit_01_基于SSM框架的校园出入安全管理系统的设计与实现/code/school/school-system/src/main/java/com/school/system/service/ISysConfigService.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/niit_01_基于SSM框架的校园出入安全管理系统的设计与实现/code/school/school-system/src/main/java/com/school/system/service/ISysDeptService.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/niit_01_基于SSM框架的校园出入安全管理系统的设计与实现/code/school/school-system/src/main/java/com/school/system/service/ISysDictDataService.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/niit_01_基于SSM框架的校园出入安全管理系统的设计与实现/code/school/school-system/src/main/java/com/school/system/service/ISysDictTypeService.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/niit_01_基于SSM框架的校园出入安全管理系统的设计与实现/code/school/school-system/src/main/java/com/school/system/service/ISysLogininforService.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/niit_01_基于SSM框架的校园出入安全管理系统的设计与实现/code/school/school-system/src/main/java/com/school/system/service/ISysMenuService.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/niit_01_基于SSM框架的校园出入安全管理系统的设计与实现/code/school/school-system/src/main/java/com/school/system/service/ISysNoticeService.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/niit_01_基于SSM框架的校园出入安全管理系统的设计与实现/code/school/school-system/src/main/java/com/school/system/service/ISysOperLogService.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/niit_01_基于SSM框架的校园出入安全管理系统的设计与实现/code/school/school-system/src/main/java/com/school/system/service/ISysPostService.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/niit_01_基于SSM框架的校园出入安全管理系统的设计与实现/code/school/school-system/src/main/java/com/school/system/service/ISysRoleService.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/niit_01_基于SSM框架的校园出入安全管理系统的设计与实现/code/school/school-system/src/main/java/com/school/system/service/ISysUserOnlineService.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/niit_01_基于SSM框架的校园出入安全管理系统的设计与实现/code/school/school-system/src/main/java/com/school/system/service/ISysUserService.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/niit_01_基于SSM框架的校园出入安全管理系统的设计与实现/code/school/school-system/src/main/java/com/school/system/service/impl/SysConfigServiceImpl.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/niit_01_基于SSM框架的校园出入安全管理系统的设计与实现/code/school/school-system/src/main/java/com/school/system/service/impl/SysDeptServiceImpl.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/niit_01_基于SSM框架的校园出入安全管理系统的设计与实现/code/school/school-system/src/main/java/com/school/system/service/impl/SysDictDataServiceImpl.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/niit_01_基于SSM框架的校园出入安全管理系统的设计与实现/code/school/school-system/src/main/java/com/school/system/service/impl/SysDictTypeServiceImpl.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/niit_01_基于SSM框架的校园出入安全管理系统的设计与实现/code/school/school-system/src/main/java/com/school/system/service/impl/SysLogininforServiceImpl.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/niit_01_基于SSM框架的校园出入安全管理系统的设计与实现/code/school/school-system/src/main/java/com/school/system/service/impl/SysMenuServiceImpl.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/niit_01_基于SSM框架的校园出入安全管理系统的设计与实现/code/school/school-system/src/main/java/com/school/system/service/impl/SysNoticeServiceImpl.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/niit_01_基于SSM框架的校园出入安全管理系统的设计与实现/code/school/school-system/src/main/java/com/school/system/service/impl/SysOperLogServiceImpl.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/niit_01_基于SSM框架的校园出入安全管理系统的设计与实现/code/school/school-system/src/main/java/com/school/system/service/impl/SysPostServiceImpl.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/niit_01_基于SSM框架的校园出入安全管理系统的设计与实现/code/school/school-system/src/main/java/com/school/system/service/impl/SysRoleServiceImpl.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/niit_01_基于SSM框架的校园出入安全管理系统的设计与实现/code/school/school-system/src/main/java/com/school/system/service/impl/SysUserOnlineServiceImpl.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/niit_01_基于SSM框架的校园出入安全管理系统的设计与实现/code/school/school-system/src/main/java/com/school/system/service/impl/SysUserServiceImpl.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/niit_01_基于SSM框架的校园出入安全管理系统的设计与实现/code/school/school-system/src/main/resources/mapper/system/SysConfigMapper.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/niit_01_基于SSM框架的校园出入安全管理系统的设计与实现/code/school/school-system/src/main/resources/mapper/system/SysDeptMapper.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/niit_01_基于SSM框架的校园出入安全管理系统的设计与实现/code/school/school-system/src/main/resources/mapper/system/SysDictDataMapper.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/niit_01_基于SSM框架的校园出入安全管理系统的设计与实现/code/school/school-system/src/main/resources/mapper/system/SysDictTypeMapper.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/niit_01_基于SSM框架的校园出入安全管理系统的设计与实现/code/school/school-system/src/main/resources/mapper/system/SysLogininforMapper.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/niit_01_基于SSM框架的校园出入安全管理系统的设计与实现/code/school/school-system/src/main/resources/mapper/system/SysMenuMapper.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/niit_01_基于SSM框架的校园出入安全管理系统的设计与实现/code/school/school-system/src/main/resources/mapper/system/SysNoticeMapper.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/niit_01_基于SSM框架的校园出入安全管理系统的设计与实现/code/school/school-system/src/main/resources/mapper/system/SysOperLogMapper.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/niit_01_基于SSM框架的校园出入安全管理系统的设计与实现/code/school/school-system/src/main/resources/mapper/system/SysPostMapper.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/niit_01_基于SSM框架的校园出入安全管理系统的设计与实现/code/school/school-system/src/main/resources/mapper/system/SysRoleDeptMapper.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/niit_01_基于SSM框架的校园出入安全管理系统的设计与实现/code/school/school-system/src/main/resources/mapper/system/SysRoleMapper.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/niit_01_基于SSM框架的校园出入安全管理系统的设计与实现/code/school/school-system/src/main/resources/mapper/system/SysRoleMenuMapper.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/niit_01_基于SSM框架的校园出入安全管理系统的设计与实现/code/school/school-system/src/main/resources/mapper/system/SysUserMapper.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/niit_01_基于SSM框架的校园出入安全管理系统的设计与实现/code/school/school-system/src/main/resources/mapper/system/SysUserPostMapper.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/niit_01_基于SSM框架的校园出入安全管理系统的设计与实现/code/school/school-system/src/main/resources/mapper/system/SysUserRoleMapper.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/niit_01_基于SSM框架的校园出入安全管理系统的设计与实现/code/school/sql/quartz.sql" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/niit_01_基于SSM框架的校园出入安全管理系统的设计与实现/code/school/sql/ry_20230706.sql" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/niit_01_基于SSM框架的校园出入安全管理系统的设计与实现/参考/1202.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/niit_01_基于SSM框架的校园出入安全管理系统的设计与实现/参考/基于SSM框架的校园出入安全管理系统.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/niit_01_基于SSM框架的校园出入安全管理系统的设计与实现/参考/基于SSM框架的校园出入安全管理系统的设计与实现.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/niit_01_基于SSM框架的校园出入安全管理系统的设计与实现/基于SSM框架的校园出入安全管理系统的设计与实现.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/niit_01_基于SSM框架的校园出入安全管理系统的设计与实现/文档/【1】基于SSM框架的校园出入安全管理系统的设计与实现 - 任务书.docx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/niit_01_基于SSM框架的校园出入安全管理系统的设计与实现/文档/【2】基于SSM框架的校园出入安全管理系统的设计与实现 - 开题报告.docx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/niit_01_基于SSM框架的校园出入安全管理系统的设计与实现/文档/【3】本科开题报告评定表.docx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/niit_01_基于SSM框架的校园出入安全管理系统的设计与实现/文档/【4】本科中期检查表.docx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/niit_01_基于SSM框架的校园出入安全管理系统的设计与实现/文档/【5】本科指导教师审阅表.doc" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/niit_01_基于SSM框架的校园出入安全管理系统的设计与实现/文档/【6】本科评阅教师审阅表.doc" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/niit_01_基于SSM框架的校园出入安全管理系统的设计与实现/文档/【7】本科答辩及综合成绩评定表.doc" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/niit_01_基于SSM框架的校园出入安全管理系统的设计与实现/文档/【8】外文资料翻译.doc" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/任务书 开题报告示例 仅供参考 本文档仅是及格左右标准/1任务书-徐燕.docx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/任务书 开题报告示例 仅供参考 本文档仅是及格左右标准/2开题报告-徐燕.docx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/任务书 开题报告示例 仅供参考 本文档仅是及格左右标准/专科任务书.doc" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/任务书 开题报告示例 仅供参考 本文档仅是及格左右标准/专科开题报告.doc" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/出题表.xlsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/本科毕业论文（设计）及毕业实习工作方案（2023届）20221024.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/本科毕业设计（论文）撰写规范及格式模板/南京工业职业技术大学毕业设计（论文）撰写规范.docx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/本科毕业设计（论文）撰写规范及格式模板/南京工业职业技术大学毕业设计（论文）格式模板.docx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/本科相关表格2023.5.16/1本科任务书.docx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/本科相关表格2023.5.16/2本科开题报告.docx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/本科相关表格2023.5.16/3本科开题报告评定表.docx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/本科相关表格2023.5.16/4本科中期检查表.docx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/本科相关表格2023.5.16/5本科指导教师审阅表.doc" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/本科相关表格2023.5.16/6本科评阅教师审阅表.doc" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/本科相关表格2023.5.16/7本科答辩及综合成绩评定表.doc" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/本科相关表格2023.5.16/8外文资料翻译.doc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/niit_01_基于SSM框架的校园出入安全管理系统的设计与实现/code/school-mobile/components/button/FloatButton.vue" beforeDir="false" afterPath="$PROJECT_DIR$/niit_01_基于SSM框架的校园出入安全管理系统的设计与实现/code/school-mobile/components/button/FloatButton.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/niit_01_基于SSM框架的校园出入安全管理系统的设计与实现/code/school-mobile/components/gap/Gap.vue" beforeDir="false" afterPath="$PROJECT_DIR$/niit_01_基于SSM框架的校园出入安全管理系统的设计与实现/code/school-mobile/components/gap/Gap.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/niit_01_基于SSM框架的校园出入安全管理系统的设计与实现/code/school-mobile/components/navbar/Navbar.vue" beforeDir="false" afterPath="$PROJECT_DIR$/niit_01_基于SSM框架的校园出入安全管理系统的设计与实现/code/school-mobile/components/navbar/Navbar.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/niit_01_基于SSM框架的校园出入安全管理系统的设计与实现/code/school-mobile/components/tabs/Tabs.vue" beforeDir="false" afterPath="$PROJECT_DIR$/niit_01_基于SSM框架的校园出入安全管理系统的设计与实现/code/school-mobile/components/tabs/Tabs.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/niit_01_基于SSM框架的校园出入安全管理系统的设计与实现/code/school-mobile/manifest.json" beforeDir="false" afterPath="$PROJECT_DIR$/niit_01_基于SSM框架的校园出入安全管理系统的设计与实现/code/school-mobile/manifest.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/niit_01_基于SSM框架的校园出入安全管理系统的设计与实现/code/school-mobile/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/niit_01_基于SSM框架的校园出入安全管理系统的设计与实现/code/school-mobile/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/niit_01_基于SSM框架的校园出入安全管理系统的设计与实现/code/school-mobile/pages/center/index.vue" beforeDir="false" afterPath="$PROJECT_DIR$/niit_01_基于SSM框架的校园出入安全管理系统的设计与实现/code/school-mobile/pages/center/index.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/niit_01_基于SSM框架的校园出入安全管理系统的设计与实现/code/school-mobile/pages/center/log.vue" beforeDir="false" afterPath="$PROJECT_DIR$/niit_01_基于SSM框架的校园出入安全管理系统的设计与实现/code/school-mobile/pages/center/log.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/niit_01_基于SSM框架的校园出入安全管理系统的设计与实现/code/school-mobile/pages/center/password.vue" beforeDir="false" afterPath="$PROJECT_DIR$/niit_01_基于SSM框架的校园出入安全管理系统的设计与实现/code/school-mobile/pages/center/password.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/niit_01_基于SSM框架的校园出入安全管理系统的设计与实现/code/school-mobile/pages/center/profile.vue" beforeDir="false" afterPath="$PROJECT_DIR$/niit_01_基于SSM框架的校园出入安全管理系统的设计与实现/code/school-mobile/pages/center/profile.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/niit_01_基于SSM框架的校园出入安全管理系统的设计与实现/code/school-mobile/pages/index/index.vue" beforeDir="false" afterPath="$PROJECT_DIR$/niit_01_基于SSM框架的校园出入安全管理系统的设计与实现/code/school-mobile/pages/index/index.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/niit_01_基于SSM框架的校园出入安全管理系统的设计与实现/code/school-mobile/pages/login/index.vue" beforeDir="false" afterPath="$PROJECT_DIR$/niit_01_基于SSM框架的校园出入安全管理系统的设计与实现/code/school-mobile/pages/login/index.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/niit_01_基于SSM框架的校园出入安全管理系统的设计与实现/code/school-mobile/pages/work/index.vue" beforeDir="false" afterPath="$PROJECT_DIR$/niit_01_基于SSM框架的校园出入安全管理系统的设计与实现/code/school-mobile/pages/work/index.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/niit_01_基于SSM框架的校园出入安全管理系统的设计与实现/code/school-mobile/pages/work/notice/detail.vue" beforeDir="false" afterPath="$PROJECT_DIR$/niit_01_基于SSM框架的校园出入安全管理系统的设计与实现/code/school-mobile/pages/work/notice/detail.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/niit_01_基于SSM框架的校园出入安全管理系统的设计与实现/code/school-mobile/pages/work/notice/edit.vue" beforeDir="false" afterPath="$PROJECT_DIR$/niit_01_基于SSM框架的校园出入安全管理系统的设计与实现/code/school-mobile/pages/work/notice/edit.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/niit_01_基于SSM框架的校园出入安全管理系统的设计与实现/code/school-mobile/pages/work/notice/list.vue" beforeDir="false" afterPath="$PROJECT_DIR$/niit_01_基于SSM框架的校园出入安全管理系统的设计与实现/code/school-mobile/pages/work/notice/list.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/niit_01_基于SSM框架的校园出入安全管理系统的设计与实现/code/school-mobile/pages/work/notice/manage.vue" beforeDir="false" afterPath="$PROJECT_DIR$/niit_01_基于SSM框架的校园出入安全管理系统的设计与实现/code/school-mobile/pages/work/notice/manage.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/niit_01_基于SSM框架的校园出入安全管理系统的设计与实现/code/school-mobile/pages/work/notice/record.vue" beforeDir="false" afterPath="$PROJECT_DIR$/niit_01_基于SSM框架的校园出入安全管理系统的设计与实现/code/school-mobile/pages/work/notice/record.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/niit_01_基于SSM框架的校园出入安全管理系统的设计与实现/code/school-mobile/pages/work/user/edit.vue" beforeDir="false" afterPath="$PROJECT_DIR$/niit_01_基于SSM框架的校园出入安全管理系统的设计与实现/code/school-mobile/pages/work/user/edit.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/niit_01_基于SSM框架的校园出入安全管理系统的设计与实现/code/school-mobile/pages/work/user/list.vue" beforeDir="false" afterPath="$PROJECT_DIR$/niit_01_基于SSM框架的校园出入安全管理系统的设计与实现/code/school-mobile/pages/work/user/list.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/niit_01_基于SSM框架的校园出入安全管理系统的设计与实现/code/school-mobile/uni_modules/qiun-data-charts/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/niit_01_基于SSM框架的校园出入安全管理系统的设计与实现/code/school-mobile/uni_modules/qiun-data-charts/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/niit_01_基于SSM框架的校园出入安全管理系统的设计与实现/code/school-mobile/uni_modules/uview-ui/components/u--image/u--image.vue" beforeDir="false" afterPath="$PROJECT_DIR$/niit_01_基于SSM框架的校园出入安全管理系统的设计与实现/code/school-mobile/uni_modules/uview-ui/components/u--image/u--image.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/niit_01_基于SSM框架的校园出入安全管理系统的设计与实现/code/school-mobile/uni_modules/uview-ui/components/u--input/u--input.vue" beforeDir="false" afterPath="$PROJECT_DIR$/niit_01_基于SSM框架的校园出入安全管理系统的设计与实现/code/school-mobile/uni_modules/uview-ui/components/u--input/u--input.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/niit_01_基于SSM框架的校园出入安全管理系统的设计与实现/code/school-mobile/uni_modules/uview-ui/components/u-album/u-album.vue" beforeDir="false" afterPath="$PROJECT_DIR$/niit_01_基于SSM框架的校园出入安全管理系统的设计与实现/code/school-mobile/uni_modules/uview-ui/components/u-album/u-album.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/niit_01_基于SSM框架的校园出入安全管理系统的设计与实现/code/school-mobile/uni_modules/uview-ui/components/u-dropdown/u-dropdown.vue" beforeDir="false" afterPath="$PROJECT_DIR$/niit_01_基于SSM框架的校园出入安全管理系统的设计与实现/code/school-mobile/uni_modules/uview-ui/components/u-dropdown/u-dropdown.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/niit_01_基于SSM框架的校园出入安全管理系统的设计与实现/code/school-mobile/uni_modules/uview-ui/components/u-parse/node/node.vue" beforeDir="false" afterPath="$PROJECT_DIR$/niit_01_基于SSM框架的校园出入安全管理系统的设计与实现/code/school-mobile/uni_modules/uview-ui/components/u-parse/node/node.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/niit_02_基于Web的课程考评系统的开发与实现/code/exam-mobile/components/button/FloatButton.vue" beforeDir="false" afterPath="$PROJECT_DIR$/niit_02_基于Web的课程考评系统的开发与实现/code/exam-mobile/components/button/FloatButton.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/niit_02_基于Web的课程考评系统的开发与实现/code/exam-mobile/components/gap/Gap.vue" beforeDir="false" afterPath="$PROJECT_DIR$/niit_02_基于Web的课程考评系统的开发与实现/code/exam-mobile/components/gap/Gap.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/niit_02_基于Web的课程考评系统的开发与实现/code/exam-mobile/components/navbar/Navbar.vue" beforeDir="false" afterPath="$PROJECT_DIR$/niit_02_基于Web的课程考评系统的开发与实现/code/exam-mobile/components/navbar/Navbar.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/niit_02_基于Web的课程考评系统的开发与实现/code/exam-mobile/components/tabs/Tabs.vue" beforeDir="false" afterPath="$PROJECT_DIR$/niit_02_基于Web的课程考评系统的开发与实现/code/exam-mobile/components/tabs/Tabs.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/niit_02_基于Web的课程考评系统的开发与实现/code/exam-mobile/manifest.json" beforeDir="false" afterPath="$PROJECT_DIR$/niit_02_基于Web的课程考评系统的开发与实现/code/exam-mobile/manifest.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/niit_02_基于Web的课程考评系统的开发与实现/code/exam-mobile/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/niit_02_基于Web的课程考评系统的开发与实现/code/exam-mobile/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/niit_02_基于Web的课程考评系统的开发与实现/code/exam-mobile/pages/center/index.vue" beforeDir="false" afterPath="$PROJECT_DIR$/niit_02_基于Web的课程考评系统的开发与实现/code/exam-mobile/pages/center/index.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/niit_02_基于Web的课程考评系统的开发与实现/code/exam-mobile/pages/center/log.vue" beforeDir="false" afterPath="$PROJECT_DIR$/niit_02_基于Web的课程考评系统的开发与实现/code/exam-mobile/pages/center/log.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/niit_02_基于Web的课程考评系统的开发与实现/code/exam-mobile/pages/center/password.vue" beforeDir="false" afterPath="$PROJECT_DIR$/niit_02_基于Web的课程考评系统的开发与实现/code/exam-mobile/pages/center/password.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/niit_02_基于Web的课程考评系统的开发与实现/code/exam-mobile/pages/center/profile.vue" beforeDir="false" afterPath="$PROJECT_DIR$/niit_02_基于Web的课程考评系统的开发与实现/code/exam-mobile/pages/center/profile.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/niit_02_基于Web的课程考评系统的开发与实现/code/exam-mobile/pages/index/index.vue" beforeDir="false" afterPath="$PROJECT_DIR$/niit_02_基于Web的课程考评系统的开发与实现/code/exam-mobile/pages/index/index.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/niit_02_基于Web的课程考评系统的开发与实现/code/exam-mobile/pages/login/index.vue" beforeDir="false" afterPath="$PROJECT_DIR$/niit_02_基于Web的课程考评系统的开发与实现/code/exam-mobile/pages/login/index.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/niit_02_基于Web的课程考评系统的开发与实现/code/exam-mobile/pages/work/index.vue" beforeDir="false" afterPath="$PROJECT_DIR$/niit_02_基于Web的课程考评系统的开发与实现/code/exam-mobile/pages/work/index.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/niit_02_基于Web的课程考评系统的开发与实现/code/exam-mobile/pages/work/notice/detail.vue" beforeDir="false" afterPath="$PROJECT_DIR$/niit_02_基于Web的课程考评系统的开发与实现/code/exam-mobile/pages/work/notice/detail.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/niit_02_基于Web的课程考评系统的开发与实现/code/exam-mobile/pages/work/notice/edit.vue" beforeDir="false" afterPath="$PROJECT_DIR$/niit_02_基于Web的课程考评系统的开发与实现/code/exam-mobile/pages/work/notice/edit.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/niit_02_基于Web的课程考评系统的开发与实现/code/exam-mobile/pages/work/notice/list.vue" beforeDir="false" afterPath="$PROJECT_DIR$/niit_02_基于Web的课程考评系统的开发与实现/code/exam-mobile/pages/work/notice/list.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/niit_02_基于Web的课程考评系统的开发与实现/code/exam-mobile/pages/work/notice/manage.vue" beforeDir="false" afterPath="$PROJECT_DIR$/niit_02_基于Web的课程考评系统的开发与实现/code/exam-mobile/pages/work/notice/manage.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/niit_02_基于Web的课程考评系统的开发与实现/code/exam-mobile/pages/work/notice/record.vue" beforeDir="false" afterPath="$PROJECT_DIR$/niit_02_基于Web的课程考评系统的开发与实现/code/exam-mobile/pages/work/notice/record.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/niit_02_基于Web的课程考评系统的开发与实现/code/exam-mobile/pages/work/user/edit.vue" beforeDir="false" afterPath="$PROJECT_DIR$/niit_02_基于Web的课程考评系统的开发与实现/code/exam-mobile/pages/work/user/edit.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/niit_02_基于Web的课程考评系统的开发与实现/code/exam-mobile/pages/work/user/list.vue" beforeDir="false" afterPath="$PROJECT_DIR$/niit_02_基于Web的课程考评系统的开发与实现/code/exam-mobile/pages/work/user/list.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/niit_02_基于Web的课程考评系统的开发与实现/code/exam-mobile/uni_modules/qiun-data-charts/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/niit_02_基于Web的课程考评系统的开发与实现/code/exam-mobile/uni_modules/qiun-data-charts/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/niit_02_基于Web的课程考评系统的开发与实现/code/exam-mobile/uni_modules/uview-ui/components/u--image/u--image.vue" beforeDir="false" afterPath="$PROJECT_DIR$/niit_02_基于Web的课程考评系统的开发与实现/code/exam-mobile/uni_modules/uview-ui/components/u--image/u--image.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/niit_02_基于Web的课程考评系统的开发与实现/code/exam-mobile/uni_modules/uview-ui/components/u--input/u--input.vue" beforeDir="false" afterPath="$PROJECT_DIR$/niit_02_基于Web的课程考评系统的开发与实现/code/exam-mobile/uni_modules/uview-ui/components/u--input/u--input.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/niit_02_基于Web的课程考评系统的开发与实现/code/exam-mobile/uni_modules/uview-ui/components/u-album/u-album.vue" beforeDir="false" afterPath="$PROJECT_DIR$/niit_02_基于Web的课程考评系统的开发与实现/code/exam-mobile/uni_modules/uview-ui/components/u-album/u-album.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/niit_02_基于Web的课程考评系统的开发与实现/code/exam-mobile/uni_modules/uview-ui/components/u-dropdown/u-dropdown.vue" beforeDir="false" afterPath="$PROJECT_DIR$/niit_02_基于Web的课程考评系统的开发与实现/code/exam-mobile/uni_modules/uview-ui/components/u-dropdown/u-dropdown.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/niit_02_基于Web的课程考评系统的开发与实现/code/exam-mobile/uni_modules/uview-ui/components/u-parse/node/node.vue" beforeDir="false" afterPath="$PROJECT_DIR$/niit_02_基于Web的课程考评系统的开发与实现/code/exam-mobile/uni_modules/uview-ui/components/u-parse/node/node.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/niit_03_基于Web的高校综合教务管理系统的设计与实现/code/edu-office-mobile/components/button/FloatButton.vue" beforeDir="false" afterPath="$PROJECT_DIR$/niit_03_基于Web的高校综合教务管理系统的设计与实现/code/edu-office-mobile/components/button/FloatButton.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/niit_03_基于Web的高校综合教务管理系统的设计与实现/code/edu-office-mobile/components/gap/Gap.vue" beforeDir="false" afterPath="$PROJECT_DIR$/niit_03_基于Web的高校综合教务管理系统的设计与实现/code/edu-office-mobile/components/gap/Gap.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/niit_03_基于Web的高校综合教务管理系统的设计与实现/code/edu-office-mobile/components/navbar/Navbar.vue" beforeDir="false" afterPath="$PROJECT_DIR$/niit_03_基于Web的高校综合教务管理系统的设计与实现/code/edu-office-mobile/components/navbar/Navbar.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/niit_03_基于Web的高校综合教务管理系统的设计与实现/code/edu-office-mobile/components/tabs/Tabs.vue" beforeDir="false" afterPath="$PROJECT_DIR$/niit_03_基于Web的高校综合教务管理系统的设计与实现/code/edu-office-mobile/components/tabs/Tabs.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/niit_03_基于Web的高校综合教务管理系统的设计与实现/code/edu-office-mobile/manifest.json" beforeDir="false" afterPath="$PROJECT_DIR$/niit_03_基于Web的高校综合教务管理系统的设计与实现/code/edu-office-mobile/manifest.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/niit_03_基于Web的高校综合教务管理系统的设计与实现/code/edu-office-mobile/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/niit_03_基于Web的高校综合教务管理系统的设计与实现/code/edu-office-mobile/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/niit_03_基于Web的高校综合教务管理系统的设计与实现/code/edu-office-mobile/pages/center/index.vue" beforeDir="false" afterPath="$PROJECT_DIR$/niit_03_基于Web的高校综合教务管理系统的设计与实现/code/edu-office-mobile/pages/center/index.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/niit_03_基于Web的高校综合教务管理系统的设计与实现/code/edu-office-mobile/pages/center/log.vue" beforeDir="false" afterPath="$PROJECT_DIR$/niit_03_基于Web的高校综合教务管理系统的设计与实现/code/edu-office-mobile/pages/center/log.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/niit_03_基于Web的高校综合教务管理系统的设计与实现/code/edu-office-mobile/pages/center/password.vue" beforeDir="false" afterPath="$PROJECT_DIR$/niit_03_基于Web的高校综合教务管理系统的设计与实现/code/edu-office-mobile/pages/center/password.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/niit_03_基于Web的高校综合教务管理系统的设计与实现/code/edu-office-mobile/pages/center/profile.vue" beforeDir="false" afterPath="$PROJECT_DIR$/niit_03_基于Web的高校综合教务管理系统的设计与实现/code/edu-office-mobile/pages/center/profile.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/niit_03_基于Web的高校综合教务管理系统的设计与实现/code/edu-office-mobile/pages/index/index.vue" beforeDir="false" afterPath="$PROJECT_DIR$/niit_03_基于Web的高校综合教务管理系统的设计与实现/code/edu-office-mobile/pages/index/index.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/niit_03_基于Web的高校综合教务管理系统的设计与实现/code/edu-office-mobile/pages/login/index.vue" beforeDir="false" afterPath="$PROJECT_DIR$/niit_03_基于Web的高校综合教务管理系统的设计与实现/code/edu-office-mobile/pages/login/index.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/niit_03_基于Web的高校综合教务管理系统的设计与实现/code/edu-office-mobile/pages/work/index.vue" beforeDir="false" afterPath="$PROJECT_DIR$/niit_03_基于Web的高校综合教务管理系统的设计与实现/code/edu-office-mobile/pages/work/index.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/niit_03_基于Web的高校综合教务管理系统的设计与实现/code/edu-office-mobile/pages/work/notice/detail.vue" beforeDir="false" afterPath="$PROJECT_DIR$/niit_03_基于Web的高校综合教务管理系统的设计与实现/code/edu-office-mobile/pages/work/notice/detail.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/niit_03_基于Web的高校综合教务管理系统的设计与实现/code/edu-office-mobile/pages/work/notice/edit.vue" beforeDir="false" afterPath="$PROJECT_DIR$/niit_03_基于Web的高校综合教务管理系统的设计与实现/code/edu-office-mobile/pages/work/notice/edit.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/niit_03_基于Web的高校综合教务管理系统的设计与实现/code/edu-office-mobile/pages/work/notice/list.vue" beforeDir="false" afterPath="$PROJECT_DIR$/niit_03_基于Web的高校综合教务管理系统的设计与实现/code/edu-office-mobile/pages/work/notice/list.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/niit_03_基于Web的高校综合教务管理系统的设计与实现/code/edu-office-mobile/pages/work/notice/manage.vue" beforeDir="false" afterPath="$PROJECT_DIR$/niit_03_基于Web的高校综合教务管理系统的设计与实现/code/edu-office-mobile/pages/work/notice/manage.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/niit_03_基于Web的高校综合教务管理系统的设计与实现/code/edu-office-mobile/pages/work/notice/record.vue" beforeDir="false" afterPath="$PROJECT_DIR$/niit_03_基于Web的高校综合教务管理系统的设计与实现/code/edu-office-mobile/pages/work/notice/record.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/niit_03_基于Web的高校综合教务管理系统的设计与实现/code/edu-office-mobile/pages/work/user/edit.vue" beforeDir="false" afterPath="$PROJECT_DIR$/niit_03_基于Web的高校综合教务管理系统的设计与实现/code/edu-office-mobile/pages/work/user/edit.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/niit_03_基于Web的高校综合教务管理系统的设计与实现/code/edu-office-mobile/pages/work/user/list.vue" beforeDir="false" afterPath="$PROJECT_DIR$/niit_03_基于Web的高校综合教务管理系统的设计与实现/code/edu-office-mobile/pages/work/user/list.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/niit_03_基于Web的高校综合教务管理系统的设计与实现/code/edu-office-mobile/uni_modules/qiun-data-charts/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/niit_03_基于Web的高校综合教务管理系统的设计与实现/code/edu-office-mobile/uni_modules/qiun-data-charts/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/niit_03_基于Web的高校综合教务管理系统的设计与实现/code/edu-office-mobile/uni_modules/uview-ui/components/u--image/u--image.vue" beforeDir="false" afterPath="$PROJECT_DIR$/niit_03_基于Web的高校综合教务管理系统的设计与实现/code/edu-office-mobile/uni_modules/uview-ui/components/u--image/u--image.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/niit_03_基于Web的高校综合教务管理系统的设计与实现/code/edu-office-mobile/uni_modules/uview-ui/components/u--input/u--input.vue" beforeDir="false" afterPath="$PROJECT_DIR$/niit_03_基于Web的高校综合教务管理系统的设计与实现/code/edu-office-mobile/uni_modules/uview-ui/components/u--input/u--input.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/niit_03_基于Web的高校综合教务管理系统的设计与实现/code/edu-office-mobile/uni_modules/uview-ui/components/u-album/u-album.vue" beforeDir="false" afterPath="$PROJECT_DIR$/niit_03_基于Web的高校综合教务管理系统的设计与实现/code/edu-office-mobile/uni_modules/uview-ui/components/u-album/u-album.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/niit_03_基于Web的高校综合教务管理系统的设计与实现/code/edu-office-mobile/uni_modules/uview-ui/components/u-dropdown/u-dropdown.vue" beforeDir="false" afterPath="$PROJECT_DIR$/niit_03_基于Web的高校综合教务管理系统的设计与实现/code/edu-office-mobile/uni_modules/uview-ui/components/u-dropdown/u-dropdown.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/niit_03_基于Web的高校综合教务管理系统的设计与实现/code/edu-office-mobile/uni_modules/uview-ui/components/u-parse/node/node.vue" beforeDir="false" afterPath="$PROJECT_DIR$/niit_03_基于Web的高校综合教务管理系统的设计与实现/code/edu-office-mobile/uni_modules/uview-ui/components/u-parse/node/node.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ym/code/ym-mobile/components/button/FloatButton.vue" beforeDir="false" afterPath="$PROJECT_DIR$/ym/code/ym-mobile/components/button/FloatButton.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ym/code/ym-mobile/components/gap/Gap.vue" beforeDir="false" afterPath="$PROJECT_DIR$/ym/code/ym-mobile/components/gap/Gap.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ym/code/ym-mobile/components/navbar/Navbar.vue" beforeDir="false" afterPath="$PROJECT_DIR$/ym/code/ym-mobile/components/navbar/Navbar.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ym/code/ym-mobile/components/tabs/Tabs.vue" beforeDir="false" afterPath="$PROJECT_DIR$/ym/code/ym-mobile/components/tabs/Tabs.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ym/code/ym-mobile/manifest.json" beforeDir="false" afterPath="$PROJECT_DIR$/ym/code/ym-mobile/manifest.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ym/code/ym-mobile/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/ym/code/ym-mobile/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ym/code/ym-mobile/pages/center/index.vue" beforeDir="false" afterPath="$PROJECT_DIR$/ym/code/ym-mobile/pages/center/index.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ym/code/ym-mobile/pages/center/log.vue" beforeDir="false" afterPath="$PROJECT_DIR$/ym/code/ym-mobile/pages/center/log.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ym/code/ym-mobile/pages/center/password.vue" beforeDir="false" afterPath="$PROJECT_DIR$/ym/code/ym-mobile/pages/center/password.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ym/code/ym-mobile/pages/center/profile.vue" beforeDir="false" afterPath="$PROJECT_DIR$/ym/code/ym-mobile/pages/center/profile.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ym/code/ym-mobile/pages/index/index.vue" beforeDir="false" afterPath="$PROJECT_DIR$/ym/code/ym-mobile/pages/index/index.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ym/code/ym-mobile/pages/login/index.vue" beforeDir="false" afterPath="$PROJECT_DIR$/ym/code/ym-mobile/pages/login/index.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ym/code/ym-mobile/pages/work/index.vue" beforeDir="false" afterPath="$PROJECT_DIR$/ym/code/ym-mobile/pages/work/index.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ym/code/ym-mobile/pages/work/notice/detail.vue" beforeDir="false" afterPath="$PROJECT_DIR$/ym/code/ym-mobile/pages/work/notice/detail.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ym/code/ym-mobile/pages/work/notice/edit.vue" beforeDir="false" afterPath="$PROJECT_DIR$/ym/code/ym-mobile/pages/work/notice/edit.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ym/code/ym-mobile/pages/work/notice/list.vue" beforeDir="false" afterPath="$PROJECT_DIR$/ym/code/ym-mobile/pages/work/notice/list.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ym/code/ym-mobile/pages/work/notice/manage.vue" beforeDir="false" afterPath="$PROJECT_DIR$/ym/code/ym-mobile/pages/work/notice/manage.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ym/code/ym-mobile/pages/work/notice/record.vue" beforeDir="false" afterPath="$PROJECT_DIR$/ym/code/ym-mobile/pages/work/notice/record.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ym/code/ym-mobile/pages/work/user/edit.vue" beforeDir="false" afterPath="$PROJECT_DIR$/ym/code/ym-mobile/pages/work/user/edit.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ym/code/ym-mobile/pages/work/user/list.vue" beforeDir="false" afterPath="$PROJECT_DIR$/ym/code/ym-mobile/pages/work/user/list.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ym/code/ym-mobile/uni_modules/qiun-data-charts/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/ym/code/ym-mobile/uni_modules/qiun-data-charts/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ym/code/ym-mobile/uni_modules/uview-ui/components/u--image/u--image.vue" beforeDir="false" afterPath="$PROJECT_DIR$/ym/code/ym-mobile/uni_modules/uview-ui/components/u--image/u--image.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ym/code/ym-mobile/uni_modules/uview-ui/components/u--input/u--input.vue" beforeDir="false" afterPath="$PROJECT_DIR$/ym/code/ym-mobile/uni_modules/uview-ui/components/u--input/u--input.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ym/code/ym-mobile/uni_modules/uview-ui/components/u-album/u-album.vue" beforeDir="false" afterPath="$PROJECT_DIR$/ym/code/ym-mobile/uni_modules/uview-ui/components/u-album/u-album.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ym/code/ym-mobile/uni_modules/uview-ui/components/u-dropdown/u-dropdown.vue" beforeDir="false" afterPath="$PROJECT_DIR$/ym/code/ym-mobile/uni_modules/uview-ui/components/u-dropdown/u-dropdown.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ym/code/ym-mobile/uni_modules/uview-ui/components/u-parse/node/node.vue" beforeDir="false" afterPath="$PROJECT_DIR$/ym/code/ym-mobile/uni_modules/uview-ui/components/u-parse/node/node.vue" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -703,35 +141,35 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ASKED_ADD_EXTERNAL_FILES": "true",
-    "RequestMappingsPanelOrder0": "0",
-    "RequestMappingsPanelOrder1": "1",
-    "RequestMappingsPanelWidth0": "75",
-    "RequestMappingsPanelWidth1": "75",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "Spring Boot.YmApplication.executor": "Run",
-    "WebServerToolWindowFactoryState": "false",
-    "git-widget-placeholder": "main",
-    "jdk.selected.JAVA_MODULE": "1.8",
-    "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "/Users/panpan/Desktop/bysj/niit2023/niit_01_基于SSM框架的校园出入安全管理系统的设计与实现",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "npm.dev.executor": "Run",
-    "project.structure.last.edited": "Modules",
-    "project.structure.proportion": "0.0",
-    "project.structure.side.proportion": "0.0",
-    "settings.editor.selected.configurable": "project.propVCSSupport.DirectoryMappings",
-    "ts.external.directory.path": "/Users/panpan/Applications/IntelliJ IDEA Ultimate.app/Contents/plugins/javascript-impl/jsLanguageServicesImpl/external",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;RequestMappingsPanelOrder0&quot;: &quot;0&quot;,
+    &quot;RequestMappingsPanelOrder1&quot;: &quot;1&quot;,
+    &quot;RequestMappingsPanelWidth0&quot;: &quot;75&quot;,
+    &quot;RequestMappingsPanelWidth1&quot;: &quot;75&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;Spring Boot.YmApplication.executor&quot;: &quot;Run&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;jdk.selected.JAVA_MODULE&quot;: &quot;1.8&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/panpan/Desktop/bysj/niit2023/niit_01_基于SSM框架的校园出入安全管理系统的设计与实现&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;npm.dev.executor&quot;: &quot;Run&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;project.propVCSSupport.DirectoryMappings&quot;,
+    &quot;ts.external.directory.path&quot;: &quot;/Users/panpan/Applications/IntelliJ IDEA Ultimate.app/Contents/plugins/javascript-impl/jsLanguageServicesImpl/external&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/niit_01_基于SSM框架的校园出入安全管理系统的设计与实现" />
@@ -796,6 +234,7 @@
       <workItem from="1702284819415" duration="121000" />
       <workItem from="1702551016250" duration="89000" />
       <workItem from="1702975262711" duration="1068000" />
+      <workItem from="1702990611772" duration="66000" />
     </task>
     <task id="LOCAL-00001" summary="1">
       <option name="closed" value="true" />

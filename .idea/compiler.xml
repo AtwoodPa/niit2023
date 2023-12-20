@@ -8,10 +8,10 @@
         <outputRelativeToContentRoot value="true" />
         <module name="ym-generator" />
         <module name="ym-admin" />
+        <module name="ym-framework" />
         <module name="ym-common" />
         <module name="ym-system" />
         <module name="ym-quartz" />
-        <module name="ym-framework" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
